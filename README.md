@@ -29,6 +29,11 @@
 
 ## C#
 
+* [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET
+* [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A toolkit for creating Metro / Modern UI styled WPF apps.
+* [libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET/Mono = ❤
+* [PowerArgs](https://github.com/adamabdelhamed/PowerArgs) - The ultimate .NET command line argument parser
+* [fluent-command-line-parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
@@ -161,6 +166,7 @@
 
 ## PowerShell
 
+* [psake](https://github.com/psake/psake) - A build automation tool... now with less XML...
 * [unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 
 ## Python
