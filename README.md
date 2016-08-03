@@ -9,6 +9,7 @@
     - [C](#c)
     - [C#](#c#)
     - [CSS](#css)
+    - [GCC Machine Description](#gcc machine description)
     - [Go](#go)
     - [HTML](#html)
     - [Java](#java)
@@ -106,6 +107,10 @@
 
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
+## GCC Machine Description
+
+* [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
+
 ## Go
 
 * [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -152,7 +157,6 @@
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 * [of-release](https://github.com/open-falcon/of-release) - Open-Falcon Release
 * [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
-* [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 * [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
 * [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 * [openstack](https://github.com/openstack/openstack) - 
