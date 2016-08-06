@@ -123,7 +123,7 @@
 
 ## Java
 
-* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android开发人员不得不收集的代码(持续更新中)
 * [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 * [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
 * [sqlbuilder](https://github.com/jahlborn/sqlbuilder) - Mirror of the SqlBuilder project: http://openhms.sourceforge.net/sqlbuilder/
