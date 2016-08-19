@@ -30,6 +30,8 @@
 
 ## C#
 
+* [cron-expression-descriptor](https://github.com/bradyholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+* [CronExpression.NET](https://github.com/windeagle/CronExpression.NET) - A CronExpression parser written in C#
 * [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A toolkit for creating Metro / Modern UI styled WPF apps.
 * [libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET/Mono = ❤
@@ -76,7 +78,7 @@
 * [quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 * [hbase-sdk-for-net](https://github.com/hdinsight/hbase-sdk-for-net) - Microsoft HBase REST Client Library for .NET
 * [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
-* [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、企业号、开放平台、微信支付、JSSDK。
+* [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、企业号、开放平台、微信支付、JSSDK。 WeChat SDK for C#.
 * [winsw](https://github.com/kohsuke/winsw) - A wrapper executable that can be used to host any executable as an Windows service, in a liberal license
 * [Hmac.WebApi](https://github.com/cuongle/Hmac.WebApi) - Hmac authentication with ASP.NET Web Api
 * [akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
@@ -122,6 +124,7 @@
 
 ## Java
 
+* [WXWeChatToolkits](https://github.com/wxyyxc1992/WXWeChatToolkits) - 我的微信SDK，包括公众平台管理、微信支付等各个版本
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android开发人员不得不收集的代码(持续更新中)
 * [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 * [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
@@ -134,6 +137,7 @@
 
 ## JavaScript
 
+* [Coder-Knowledge-Graph](https://github.com/wxyyxc1992/Coder-Knowledge-Graph) - Knowledge Graph For Coder —— From My Daily Experience & Practice
 * [EChartsSDK](https://github.com/idoku/EChartsSDK) - ECharts的.NET类库,从ECharts的Java类库移植.
 * [ServiceStackVS](https://github.com/ServiceStack/ServiceStackVS) - ServiceStackVS - Visual Studio extension for ServiceStack
 * [es](https://github.com/zhangkaitao/es) - JavaEE项目开发脚手架
