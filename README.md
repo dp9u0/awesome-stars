@@ -39,6 +39,7 @@
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
+- [RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - 一个轻量级跨平台的Rpc框架。
 - [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 - [SocialGoal](https://github.com/MarlabsInc/SocialGoal) - Sample web app for ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac and TDD
 - [JoyceStack.AutoUpdate](https://github.com/JoyceStack/JoyceStack.AutoUpdate) - JoyceStack.AutoUpdate
@@ -156,7 +157,6 @@
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
 - [Internet-companies-of-China](https://github.com/maguowei/Internet-companies-of-China) - More than 80,000 Chinese Internet company's information.
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 💨 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - 一个轻量级跨平台的Rpc框架。
 - [langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
 - [net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
