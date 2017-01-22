@@ -165,6 +165,13 @@
 
 ## JavaScript 
 
+- [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
+- [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
+- [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
+- [gulp](https://github.com/gulpjs/gulp) - The streaming build system
+- [download-git-repo](https://github.com/flipxfx/download-git-repo) - Download and extract a git repository (GitHub, GitLab, Bitbucket) from node.
+- [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
+- [stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 - [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
 - [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) - Vue.js+Vuex+vue-router 我的单页应用博客
 - [vuejs.org](https://github.com/vuejs/vuejs.org) - The website.
@@ -249,6 +256,7 @@
 
 ## Ruby 
 
+- [sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 
 ## Shell 
