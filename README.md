@@ -14,12 +14,14 @@
   - [JavaScript](#javascript)
   - [Nginx](#nginx)
   - [Others](#others)
+  - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
 
 ## C 
 
@@ -162,6 +164,8 @@
 
 ## JavaScript 
 
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
+- [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) - Vue.js+Vuex+vue-router 我的单页应用博客
 - [vuejs.org](https://github.com/vuejs/vuejs.org) - The website.
 - [seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
 - [link](https://github.com/leonwgc/link) - a tiny MVVM UI lib for the web
@@ -224,6 +228,10 @@
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
+## PHP 
+
+- [vuedo](https://github.com/Vuedo/vuedo) - Vuedo is a blog platform, built with Laravel and Vue.js.
+
 ## PowerShell 
 
 - [psake](https://github.com/psake/psake) - A build automation tool... now with less XML...
@@ -257,6 +265,10 @@
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
+
+## Vue 
+
+- [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
 
 ## License
