@@ -38,7 +38,6 @@
 ## C# # 
 
 - [BaiduOldDriver](https://github.com/tiancaihb/BaiduOldDriver) - Library and tools for using Baidu Netdisk's private APIs. 百度网盘私有API的C#库。
-- [MY](https://github.com/minskowl/MY) - 
 - [LINQtoCSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files.
 - [Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions
 - [Tx](https://github.com/Microsoft/Tx) - Tx (LINQ to Logs and Traces)
@@ -47,8 +46,6 @@
 - [cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
 - [Hunter3](https://github.com/Froser/Hunter3) - A web crawler which can download doc\docx\
 - [Quick](https://github.com/Froser/Quick) - A convenience tool makes you more effective
-- [classic-algorithms](https://github.com/shkolovy/classic-algorithms) - Classic algorithms on C#
-- [T4Toolbox](https://github.com/olegsych/T4Toolbox) - 
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
 - [FastSocket.Net](https://github.com/ihaoqihao/FastSocket.Net) - c#异步通信库
 - [WechatExport-iOS](https://github.com/tiancaihb/WechatExport-iOS) - Save iOS WeChat history as HTML or TXT with neat layout and picture & audio support.
@@ -129,7 +126,7 @@
 - [google-api-dotnet-client](https://github.com/google/google-api-dotnet-client) - Google APIs Client Library for .NET
 - [nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
 - [coreclr](https://github.com/dotnet/coreclr) - This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.
-- [dapper-dot-net](https://github.com/StackExchange/dapper-dot-net) - Dapper - a simple object mapper for .Net
+- [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 
 ## GCC Machine Description 
 
@@ -142,6 +139,8 @@
 
 ## HTML 
 
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
+- [zhuanbang-javascript-notes](https://github.com/Broszhu/zhuanbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA262
@@ -165,6 +164,10 @@
 
 ## JavaScript 
 
+- [webpack-handbook](https://github.com/zhaoda/webpack-handbook) - Webpack中文指南
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
+- [webpack](https://github.com/94dreamer/webpack) - 简单易懂的webpack入门教程
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
 - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 - [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
@@ -205,6 +208,9 @@
 
 ## Others 
 
+- [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: A curated contents of amazing CSS Ever :)
+- [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
+- [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书汇总
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
 - [amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
 - [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
@@ -227,7 +233,7 @@
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
 - [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
-- [openstack](https://github.com/openstack/openstack) - 
+- [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
 - [nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) - :notebook:Node.js api doc in Chinese
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
@@ -238,6 +244,7 @@
 
 ## PHP 
 
+- [Front-end-tutorial](https://github.com/Daiyichen/Front-end-tutorial) - :panda_face:最全的资源教程-前端涉及的所有知识体系
 - [vuedo](https://github.com/Vuedo/vuedo) - Vuedo is a blog platform, built with Laravel and Vue.js.
 
 ## PowerShell 
@@ -277,6 +284,7 @@
 
 ## Vue 
 
+- [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.2
 - [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
 
