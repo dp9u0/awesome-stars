@@ -6,7 +6,7 @@
 ## Contents
 
   - [C](#c)
-  - [C#](#c#)
+  - [C#](#csharp)
   - [CSS](#css)
   - [GCC Machine Description](#gcc machine description)
   - [Go](#go)
@@ -36,7 +36,7 @@
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 
-## C# # 
+## csharp
 
 - [BaiduOldDriver](https://github.com/tiancaihb/BaiduOldDriver) - Library and tools for using Baidu Netdisk's private APIs. 百度网盘私有API的C#库。
 - [LINQtoCSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files.
