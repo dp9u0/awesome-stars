@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C#](#c#)
+  - [CSS](#css)
   - [GCC Machine Description](#gcc machine description)
   - [Go](#go)
   - [HTML](#html)
@@ -40,7 +41,7 @@
 - [BaiduOldDriver](https://github.com/tiancaihb/BaiduOldDriver) - Library and tools for using Baidu Netdisk's private APIs. 百度网盘私有API的C#库。
 - [LINQtoCSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files.
 - [Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions
-- [Tx](https://github.com/Microsoft/Tx) - Tx (LINQ to Logs and Traces)
+- [Tx](https://github.com/Microsoft/Tx) - Tx (LINQ to Events)
 - [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 - [LinqToExcel](https://github.com/paulyoder/LinqToExcel) - Retrieve data from spreadsheets and csv files by using LINQ
 - [cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
@@ -128,6 +129,12 @@
 - [coreclr](https://github.com/dotnet/coreclr) - This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 
+## CSS 
+
+- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。
+- [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
+- [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
+
 ## GCC Machine Description 
 
 - [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
@@ -139,6 +146,8 @@
 
 ## HTML 
 
+- [dotnet](https://github.com/Microsoft/dotnet) - dotnet is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+- [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [zhuanbang-javascript-notes](https://github.com/Broszhu/zhuanbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
@@ -156,14 +165,21 @@
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 - [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
 - [sqlbuilder](https://github.com/jahlborn/sqlbuilder) - Mirror of the SqlBuilder project: http://openhms.sourceforge.net/sqlbuilder/
-- [RocketMQ](https://github.com/alibaba/RocketMQ) - :rocket: Alibaba's MQ, also aliyun ONS.
+- [RocketMQ](https://github.com/alibaba/RocketMQ) - Apache Incubator RocketMQ
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [Android_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 - [android-async-http](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library for Android
-- [guava](https://github.com/google/guava) - Google Core Libraries for Java 6+
+- [guava](https://github.com/google/guava) - Google Core Libraries for Java
 
 ## JavaScript 
 
+- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+- [webpack-doc](https://github.com/liunian/webpack-doc) - 个人业余 webpack 1.x 文档翻译（非官方）（未完成）
+- [blog-by-nodejs](https://github.com/chickencyj/blog-by-nodejs) - NodeJs + Mongoose + Express + jQuery + BootStrap + Ejs + Webpack搭建多人博客
+- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [webpack-handbook](https://github.com/zhaoda/webpack-handbook) - Webpack中文指南
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
@@ -179,7 +195,7 @@
 - [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) - Vue.js+Vuex+vue-router 我的单页应用博客
 - [vuejs.org](https://github.com/vuejs/vuejs.org) - The website.
 - [seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
-- [link](https://github.com/leonwgc/link) - a tiny MVVM UI lib for the web
+- [link](https://github.com/leonwgc/link) - a tiny MVVM lib on the web
 - [angularjs-pagination](https://github.com/leonwgc/angularjs-pagination) - angularjs pagination plugin
 - [example-vue2](https://github.com/dingyiming/example-vue2) - vue2 webpack2
 - [vue2-example](https://github.com/Jinkeycode/vue2-example) - An example of vue2 + vue-router2 + vue-resource1.0.3
@@ -192,7 +208,6 @@
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [goh5](https://github.com/luoye-fe/goh5) - visual h5 edit
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [Coder-Knowledge-Graph](https://github.com/wxyyxc1992/Coder-Knowledge-Graph) - 程序员知识图谱与体系结构
 - [EChartsSDK](https://github.com/idoku/EChartsSDK) - ECharts的.NET类库,从ECharts的Java类库移植.
 - [es](https://github.com/zhangkaitao/es) - JavaEE项目开发脚手架
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -208,9 +223,13 @@
 
 ## Others 
 
+- [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
+- [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:猫的前端回忆 These share data are from my usual work and learning，hoping to help you，If you like you can star
+- [handbook](https://github.com/jaywcjlove/handbook) - 这里放置我的笔记、搜集、摘录、实践，不保证正确。
 - [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-- [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书汇总
+- [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
 - [amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
 - [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
@@ -222,6 +241,7 @@
 - [project-panthera](https://github.com/intel-hadoop/project-panthera) - Project Panthera is our open source efforts to enable efficient support of standard SQL features for advacned analytics on Hadoop
 - [SqlSugarSnippets](https://github.com/sunkaixuan/SqlSugarSnippets) - 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+- [Coder-Knowledge-Management](https://github.com/wxyyxc1992/Coder-Knowledge-Management) - 程序员的知识管理：技术视野与职业规划
 - [Internet-companies-of-China](https://github.com/maguowei/Internet-companies-of-China) - More than 80,000 Chinese Internet company's information.
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
@@ -254,6 +274,7 @@
 
 ## Python 
 
+- [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
 - [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili用户爬虫
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -268,6 +289,7 @@
 
 ## Shell 
 
+- [opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [WebIDE](https://github.com/Coding/WebIDE) - Coding WebIDE Community Edition
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
@@ -284,6 +306,8 @@
 
 ## Vue 
 
+- [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
+- [iview](https://github.com/iview/iview) - UI Components with Vue.js
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.2
 - [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
