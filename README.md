@@ -226,6 +226,7 @@
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [goh5](https://github.com/luoye-fe/goh5) - visual h5 edit
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [Coder-Knowledge-Management](https://github.com/wxyyxc1992/Coder-Knowledge-Management) - 程序员的知识管理：技术视野与职业规划
 - [EChartsSDK](https://github.com/idoku/EChartsSDK) - ECharts的.NET类库,从ECharts的Java类库移植.
 - [es](https://github.com/zhangkaitao/es) - JavaEE项目开发脚手架
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -241,6 +242,7 @@
 
 ## Others 
 
+- [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -252,7 +254,7 @@
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:猫的前端回忆 These share data are from my usual work and learning，hoping to help you，If you like you can star
-- [handbook](https://github.com/jaywcjlove/handbook) - 这里放置我的笔记、搜集、摘录、实践，不保证正确。
+- [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
@@ -267,7 +269,6 @@
 - [project-panthera](https://github.com/intel-hadoop/project-panthera) - Project Panthera is our open source efforts to enable efficient support of standard SQL features for advacned analytics on Hadoop
 - [SqlSugarSnippets](https://github.com/sunkaixuan/SqlSugarSnippets) - 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
-- [Coder-Knowledge-Management](https://github.com/wxyyxc1992/Coder-Knowledge-Management) - 程序员的知识管理：技术视野与职业规划
 - [Internet-companies-of-China](https://github.com/maguowei/Internet-companies-of-China) - More than 80,000 Chinese Internet company's information.
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
