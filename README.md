@@ -43,6 +43,7 @@
 
 ## C# # 
 
+- [bootstrap-wpf-style](https://github.com/ptddqr/bootstrap-wpf-style) - Bootstrap风格的WPF样式
 - [BaiduOldDriver](https://github.com/tiancaihb/BaiduOldDriver) - Library and tools for using Baidu Netdisk's private APIs. 百度网盘私有API的C#库。
 - [LINQtoCSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files.
 - [Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions
@@ -136,6 +137,8 @@
 
 ## CSS 
 
+- [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a lightweight, responsive and modern CSS framework.
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
 - [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
@@ -151,8 +154,8 @@
 
 ## HTML 
 
+- [Resume-it](https://github.com/xiao555/Resume-it) - A resume generator
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a lightweight, responsive and modern CSS framework.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dotnet](https://github.com/Microsoft/dotnet) - dotnet is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
@@ -181,6 +184,8 @@
 
 ## JavaScript 
 
+- [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [eris](https://github.com/liriliri/eris) - Eustia modules
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
@@ -242,7 +247,8 @@
 
 ## Others 
 
-- [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
+- [code.mil](https://github.com/deptofdefense/code.mil) - An experiment in open source
+- [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -311,6 +317,7 @@
 
 ## Ruby 
 
+- [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - See 2nd edition at progit2
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 
@@ -335,7 +342,7 @@
 
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [iview](https://github.com/iview/iview) - UI Components with Vue.js
-- [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.2
+- [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
 
