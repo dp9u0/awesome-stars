@@ -43,6 +43,8 @@
 
 ## C# # 
 
+- [winforms-modernui](https://github.com/peters/winforms-modernui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications ...
+- [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 - [bootstrap-wpf-style](https://github.com/ptddqr/bootstrap-wpf-style) - Bootstrap风格的WPF样式
 - [BaiduOldDriver](https://github.com/tiancaihb/BaiduOldDriver) - Library and tools for using Baidu Netdisk's private APIs. 百度网盘私有API的C#库。
 - [LINQtoCSV](https://github.com/mperdeck/LINQtoCSV) - Popular, easy to use library to read and write CSV files.
@@ -70,7 +72,7 @@
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [EasyHttp](https://github.com/EasyHttp/EasyHttp) - Http Library for C#
-- [RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - 一个轻量级跨平台的Rpc框架。
+- [RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - A lightweight cross-platform RPC.
 - [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 - [SocialGoal](https://github.com/MarlabsInc/SocialGoal) - Sample web app for ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac and TDD
 - [Common](https://github.com/aspnet/Common) - A repository for shared files to be consumed across the ASPNET repos
@@ -176,7 +178,6 @@
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 - [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
 - [sqlbuilder](https://github.com/jahlborn/sqlbuilder) - Mirror of the SqlBuilder project: http://openhms.sourceforge.net/sqlbuilder/
-- [RocketMQ](https://github.com/alibaba/RocketMQ) - Apache Incubator RocketMQ
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [Android_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 - [android-async-http](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library for Android
@@ -184,6 +185,8 @@
 
 ## JavaScript 
 
+- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档 v6.10.0
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [eris](https://github.com/liriliri/eris) - Eustia modules
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -279,6 +282,7 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
 - [net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
+- [RocketMQ](https://github.com/alibaba/RocketMQ) - Apache Incubator RocketMQ
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) - DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -302,11 +306,13 @@
 
 ## PowerShell 
 
+- [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [psake](https://github.com/psake/psake) - A build automation tool... now with less XML...
 - [unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 
 ## Python 
 
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
 - [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili用户爬虫
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -341,7 +347,7 @@
 ## Vue 
 
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
-- [iview](https://github.com/iview/iview) - UI Components with Vue.js
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit with both Vue.js 2.0 and 1.0
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
