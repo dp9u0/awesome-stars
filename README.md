@@ -8,9 +8,11 @@
   - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
+  - [C++](#c++)
   - [CSS](#css)
   - [GCC Machine Description](#gcc machine description)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -27,10 +29,11 @@
 
 ## Assembly 
 
-- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every programming language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## C 
 
+- [rsa-crack-cuda](https://github.com/mitchellwrosen/rsa-crack-cuda) - Pairwise GCD of RSA keys using CUDA
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
@@ -43,6 +46,18 @@
 
 ## C# # 
 
+- [dnExplorer](https://github.com/yck1509/dnExplorer) - A simple viewer of modules using dnlib.
+- [dnpatch](https://github.com/ioncodes/dnpatch) - .NET Patcher library using dnlib
+- [clrmd](https://github.com/Microsoft/clrmd) - Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.
+- [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - #develop (short for SharpDevelop) is a free IDE for .NET programming languages.
+- [NRefactory](https://github.com/icsharpcode/NRefactory) - NRefactory - Refactoring Your C# Code
+- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+- [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
+- [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+- [dnlib](https://github.com/0xd4d/dnlib) - dnlib is a library that can read, write and create .NET assemblies and modules.
+- [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications
+- [MusicAPI](https://github.com/javaSwing/MusicAPI) - 网易云音乐网页版API接口
+- [itextsharp](https://github.com/itext/itextsharp) - .NET port of the iText library
 - [winforms-modernui](https://github.com/peters/winforms-modernui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications ...
 - [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
 - [bootstrap-wpf-style](https://github.com/ptddqr/bootstrap-wpf-style) - Bootstrap风格的WPF样式
@@ -137,10 +152,17 @@
 - [coreclr](https://github.com/dotnet/coreclr) - This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 
+## C++ 
+
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
+- [microsoft-pdb](https://github.com/Microsoft/microsoft-pdb) - Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.
+- [leetcode-2](https://github.com/zhuli19901106/leetcode-2) - Leetcode revision.
+
 ## CSS 
 
+- [front-end-handbook](https://github.com/dwqs/front-end-handbook) - Front-end Developer HandBook. Read online: https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a lightweight, responsive and modern CSS framework.
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A lightweight, responsive and modern CSS framework.
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
 - [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
@@ -154,8 +176,17 @@
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 
+## Groovy 
+
+- [jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+
 ## HTML 
 
+- [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The Customizable pure CSS file icons
+- [http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
+- [css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
+- [blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [Resume-it](https://github.com/xiao555/Resume-it) - A resume generator
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -173,7 +204,9 @@
 
 ## Java 
 
-- [WXWeChatToolkits](https://github.com/wxyyxc1992/WXWeChatToolkits) - 我的微信SDK，包括公众平台管理、微信支付等各个版本
+- [H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
+- [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+- [create-spring-boot-app](https://github.com/wxyyxc1992/create-spring-boot-app) - Spring Boot 项目模板：Gradle / Maven / Weixin
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 - [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
@@ -185,7 +218,16 @@
 
 ## JavaScript 
 
-- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档 v6.10.0
+- [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
+- [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
+- [browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
+- [wechat](https://github.com/node-webot/wechat) - 微信公共平台消息接口服务中间件
+- [wechat-api](https://github.com/node-webot/wechat-api) - Wechat API/主动调用API
+- [evermonkey](https://github.com/michalyao/evermonkey) - Vscode extension for Evernote.
+- [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
+- [node-biginteger](https://github.com/node-modules/node-biginteger) - node.js version of java.math.BigInteger
+- [node-rsa](https://github.com/rzcoder/node-rsa) - Node.js RSA library
+- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [eris](https://github.com/liriliri/eris) - Eustia modules
@@ -250,6 +292,13 @@
 
 ## Others 
 
+- [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
+- [think-in-java](https://github.com/quanke/think-in-java) - 
+- [node-style-guide](https://github.com/wwsun/node-style-guide) - node.js style guide for node programmers
+- [babel-handbook](https://github.com/thejameskyle/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
+- [FrontEnd-Wikis](https://github.com/maidishike/FrontEnd-Wikis) - Front-End Wikis ,Learning JavaScript、Vue.js、Node.js 、other information ect
+- [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
+- [sql-server-samples](https://github.com/Microsoft/sql-server-samples) - Official Microsoft GitHub Repository containing code samples for SQL Server
 - [code.mil](https://github.com/deptofdefense/code.mil) - An experiment in open source
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -286,7 +335,7 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) - DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
-- [of-release](https://github.com/open-falcon/of-release) - Open-Falcon Release
+- [of-release](https://github.com/open-falcon-archive/of-release) - Open-Falcon Release
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
 - [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
@@ -301,6 +350,7 @@
 
 ## PHP 
 
+- [offline-download](https://github.com/ilanyu/offline-download) - 基于php和bash的离线下载神器
 - [Front-end-tutorial](https://github.com/Daiyichen/Front-end-tutorial) - :panda_face:最全的资源教程-前端涉及的所有知识体系
 - [vuedo](https://github.com/Vuedo/vuedo) - Vuedo is a blog platform, built with Laravel and Vue.js.
 
@@ -312,6 +362,7 @@
 
 ## Python 
 
+- [Python](https://github.com/RanFeng/Python) - My Python Programs
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
 - [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili用户爬虫
@@ -329,6 +380,7 @@
 
 ## Shell 
 
+- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [WebIDE](https://github.com/Coding/WebIDE) - Coding WebIDE Community Edition
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
@@ -340,6 +392,7 @@
 
 ## TypeScript 
 
+- [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
@@ -347,7 +400,7 @@
 ## Vue 
 
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
-- [iview](https://github.com/iview/iview) - A high quality UI Toolkit with both Vue.js 2.0 and 1.0
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
