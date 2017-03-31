@@ -33,6 +33,7 @@
 
 ## C 
 
+- [wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
 - [rsa-crack-cuda](https://github.com/mitchellwrosen/rsa-crack-cuda) - Pairwise GCD of RSA keys using CUDA
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -46,6 +47,7 @@
 
 ## C# # 
 
+- [WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
 - [dnExplorer](https://github.com/yck1509/dnExplorer) - A simple viewer of modules using dnlib.
 - [dnpatch](https://github.com/ioncodes/dnpatch) - .NET Patcher library using dnlib
 - [clrmd](https://github.com/Microsoft/clrmd) - Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.
