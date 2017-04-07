@@ -221,6 +221,10 @@
 
 ## JavaScript 
 
+- [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
+- [weibo_comment](https://github.com/shanelau/weibo_comment) - 新浪微博的评论数据抓取和分析
+- [zhihu](https://github.com/shanelau/zhihu) - 知乎数据API 接口，用户信息、专栏文章信息、答题信息等等
+- [vue-small-work](https://github.com/ddqre12345/vue-small-work) - 学习进阶
 - [tippyjs](https://github.com/atomiks/tippyjs) - A lightweight, pure JS tooltip library
 - [ueditor](https://github.com/netpi/ueditor) - :pencil: UEditor 官方支持的版本有PHP JSP ASP .NET.  ueditor for nodejs 可以让你的UEditor支持node.js
 - [ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
@@ -298,6 +302,7 @@
 
 ## Others 
 
+- [node-interview-questions](https://github.com/shanelau/node-interview-questions) - nodejs 面试题精选、笔试题
 - [styleguide](https://github.com/fex-team/styleguide) - 文档与源码编写风格
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [think-in-java](https://github.com/quanke/think-in-java) - 
