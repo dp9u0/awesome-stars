@@ -47,6 +47,7 @@
 
 ## C# # 
 
+- [TestArea](https://github.com/durow/TestArea) - 这个仓库主要用于一些测试
 - [WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
 - [dnExplorer](https://github.com/yck1509/dnExplorer) - A simple viewer of modules using dnlib.
 - [dnpatch](https://github.com/ioncodes/dnpatch) - .NET Patcher library using dnlib
@@ -220,6 +221,9 @@
 
 ## JavaScript 
 
+- [tippyjs](https://github.com/atomiks/tippyjs) - A lightweight, pure JS tooltip library
+- [ueditor](https://github.com/netpi/ueditor) - :pencil: UEditor 官方支持的版本有PHP JSP ASP .NET.  ueditor for nodejs 可以让你的UEditor支持node.js
+- [ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
@@ -240,7 +244,7 @@
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 - [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
-- [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
+- [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -294,6 +298,7 @@
 
 ## Others 
 
+- [styleguide](https://github.com/fex-team/styleguide) - 文档与源码编写风格
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [think-in-java](https://github.com/quanke/think-in-java) - 
 - [node-style-guide](https://github.com/wwsun/node-style-guide) - node.js style guide for node programmers
@@ -313,7 +318,7 @@
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:猫的前端回忆 These share data are from my usual work and learning，hoping to help you，If you like you can star
+- [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:《猫的前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
@@ -397,7 +402,7 @@
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
+- [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript使用手册。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
 
 ## Vue 
 
