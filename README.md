@@ -185,6 +185,7 @@
 
 ## HTML 
 
+- [simple-html-invoice-template](https://github.com/NextStepWebs/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
 - [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The Customizable pure CSS file icons
 - [http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
@@ -221,6 +222,8 @@
 
 ## JavaScript 
 
+- [codemirror-spell-checker](https://github.com/NextStepWebs/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
+- [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
 - [weibo_comment](https://github.com/shanelau/weibo_comment) - 新浪微博的评论数据抓取和分析
 - [zhihu](https://github.com/shanelau/zhihu) - 知乎数据API 接口，用户信息、专栏文章信息、答题信息等等
@@ -411,6 +414,7 @@
 
 ## Vue 
 
+- [vue-simplemde](https://github.com/F-loat/vue-simplemde) - Vue-SimpleMDE - Markdown Editor component for Vue.js
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
