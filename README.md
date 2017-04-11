@@ -164,6 +164,12 @@
 
 ## CSS 
 
+- [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
+- [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+- [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
+- [iconpark](https://github.com/lvwzhen/iconpark) - Collection of iconfonts
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [front-end-handbook](https://github.com/dwqs/front-end-handbook) - Front-end Developer HandBook. Read online: https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A lightweight, responsive and modern CSS framework.
@@ -186,6 +192,8 @@
 
 ## HTML 
 
+- [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
+- [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [simple-html-invoice-template](https://github.com/NextStepWebs/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
 - [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The Customizable pure CSS file icons
 - [http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
@@ -223,12 +231,13 @@
 
 ## JavaScript 
 
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [codemirror-spell-checker](https://github.com/NextStepWebs/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
 - [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
 - [weibo_comment](https://github.com/shanelau/weibo_comment) - 新浪微博的评论数据抓取和分析
 - [zhihu](https://github.com/shanelau/zhihu) - 知乎数据API 接口，用户信息、专栏文章信息、答题信息等等
-- [vue-small-work](https://github.com/ddqre12345/vue-small-work) - 学习进阶
+- [vue-zhihu](https://github.com/ddqre12345/vue-zhihu) - 学习进阶
 - [tippyjs](https://github.com/atomiks/tippyjs) - A lightweight, pure JS tooltip library
 - [ueditor](https://github.com/netpi/ueditor) - :pencil: UEditor 官方支持的版本有PHP JSP ASP .NET.  ueditor for nodejs 可以让你的UEditor支持node.js
 - [ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
@@ -408,7 +417,7 @@
 ## TypeScript 
 
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
-- [evermonkey](https://github.com/michalyao/evermonkey) - Vscode extension for Evernote.
+- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript使用手册。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
