@@ -192,6 +192,7 @@
 
 ## HTML 
 
+- [weui](https://github.com/logoove/weui) - weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 - [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [simple-html-invoice-template](https://github.com/NextStepWebs/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
@@ -231,6 +232,10 @@
 
 ## JavaScript 
 
+- [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid🐌
+- [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
+- [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - zhihu daily spa with vue  线上演示在这里 ----&gt;
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [codemirror-spell-checker](https://github.com/NextStepWebs/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
 - [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
@@ -335,7 +340,7 @@
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:《猫的前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
+- [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:《前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
@@ -424,6 +429,7 @@
 
 ## Vue 
 
+- [vue-music-player](https://github.com/microzz/vue-music-player) - 🎵Vue.js写一个音乐播放器+One(一个).A music player + One by Vue.js
 - [vue-simplemde](https://github.com/F-loat/vue-simplemde) - Vue-SimpleMDE - Markdown Editor component for Vue.js
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
