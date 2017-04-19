@@ -95,7 +95,7 @@
 - [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
 - [SocialGoal](https://github.com/MarlabsInc/SocialGoal) - Sample web app for ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac and TDD
 - [Common](https://github.com/aspnet/Common) - A repository for shared files to be consumed across the ASPNET repos
-- [KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - A web server for ASP.NET Core based on libuv.
+- [KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - A cross platform web server for ASP.NET Core.
 - [Routing](https://github.com/aspnet/Routing) - Middleware for routing requests to application logic.
 - [EntityFramework](https://github.com/aspnet/EntityFramework) - Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
 - [Dos.ORM](https://github.com/itdos/Dos.ORM) - Dos.ORM（原Hxj.Data）于2009年发布，2015年正式开源。在开发过程中参考了NBear与MySoft，吸取了他们的一些精华，加入新思想，同时参考EF的Lambda语法进行大量扩展。该组件已在数百个成熟项目中应用。官方网站：http://ITdos.com/Dos/ORM/Index.html 交流QQ群：60831381
@@ -349,7 +349,6 @@
 - [amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
 - [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
 - [frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
-- [books](https://github.com/liuhaoyang/books) - Learning programming books share
 - [FE-interview](https://github.com/qiu-deqing/FE-interview) - 收集的前端面试题和答案
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [gold-miner](https://github.com/xitu/gold-miner) - 掘金翻译计划，翻译掘金上优质的英文文章
@@ -429,7 +428,7 @@
 
 ## Vue 
 
-- [vue-music-player](https://github.com/microzz/vue-music-player) - 🎵Vue.js写一个音乐播放器+One(一个).A music player + One by Vue.js
+- [vue-music-player](https://github.com/microzz/vue-music-player) - 🎵Vue.js写一个音乐播放器+📖One(一个).A music player + One by Vue.js
 - [vue-simplemde](https://github.com/F-loat/vue-simplemde) - Vue-SimpleMDE - Markdown Editor component for Vue.js
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
