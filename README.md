@@ -47,6 +47,11 @@
 
 ## C# # 
 
+- [WPF-Samples](https://github.com/Microsoft/WPF-Samples) - Repository for WPF related samples
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
+- [worlds-simplest-csharp-wpf-mvvm-example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - The World's Simplest C# WPF MVVM Example
+- [wpfspark](https://github.com/ratishphilip/wpfspark) - A rich UserControl library to enhance the look and feel of WPF applications.
+- [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) - MarkPad - a visual Markdown editor (inspired by the Downmarker project)
 - [commonservicelocator](https://github.com/unitycontainer/commonservicelocator) - 
 - [TestArea](https://github.com/durow/TestArea) - 这个仓库主要用于一些测试
 - [WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
@@ -196,7 +201,7 @@
 - [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [simple-html-invoice-template](https://github.com/NextStepWebs/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
-- [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The Customizable pure CSS file icons
+- [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The customizable pure CSS file icons
 - [http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
 - [blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
@@ -232,6 +237,9 @@
 
 ## JavaScript 
 
+- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+- [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid🐌
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
@@ -254,7 +262,7 @@
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [node-biginteger](https://github.com/node-modules/node-biginteger) - node.js version of java.math.BigInteger
 - [node-rsa](https://github.com/rzcoder/node-rsa) - Node.js RSA library
-- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
+- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档 v6.10.2
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [eris](https://github.com/liriliri/eris) - Eustia modules
@@ -319,6 +327,7 @@
 
 ## Others 
 
+- [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 - [node-interview-questions](https://github.com/shanelau/node-interview-questions) - nodejs 面试题精选、笔试题
 - [styleguide](https://github.com/fex-team/styleguide) - 文档与源码编写风格
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
@@ -363,7 +372,7 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) - DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
-- [of-release](https://github.com/open-falcon-archive/of-release) - Open-Falcon Release
+- [of-release](https://github.com/open-falcon-archive/of-release) - falcon-plus
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
 - [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
@@ -428,6 +437,10 @@
 
 ## Vue 
 
+- [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+- [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
+- [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
+- [vux](https://github.com/airyland/vux) - Vue UI Components based on WeUI
 - [vue-music-player](https://github.com/microzz/vue-music-player) - 🎵Vue.js写一个音乐播放器+📖One(一个).A music player + One by Vue.js
 - [vue-simplemde](https://github.com/F-loat/vue-simplemde) - Vue-SimpleMDE - Markdown Editor component for Vue.js
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
