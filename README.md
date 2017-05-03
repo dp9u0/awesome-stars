@@ -16,6 +16,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Lua](#lua)
   - [Nginx](#nginx)
   - [Others](#others)
   - [PHP](#php)
@@ -47,6 +48,7 @@
 
 ## C# # 
 
+- [wpf-library](https://github.com/JoyceStack/wpf-library) - library for wpf
 - [WPF-Samples](https://github.com/Microsoft/WPF-Samples) - Repository for WPF related samples
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 - [worlds-simplest-csharp-wpf-mvvm-example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - The World's Simplest C# WPF MVVM Example
@@ -178,7 +180,6 @@
 - [front-end-handbook](https://github.com/dwqs/front-end-handbook) - Front-end Developer HandBook. Read online: https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A lightweight, responsive and modern CSS framework.
-- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
 - [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
 
@@ -197,6 +198,11 @@
 
 ## HTML 
 
+- [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
+- [repractise](https://github.com/phodal/repractise) - RePractise
+- [github-roam](https://github.com/phodal/github-roam) - GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
+- [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
+- [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 - [weui](https://github.com/logoove/weui) - weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 - [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
@@ -241,7 +247,7 @@
 - [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid🐌
+- [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - zhihu daily spa with vue  线上演示在这里 ----&gt;
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -262,7 +268,7 @@
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [node-biginteger](https://github.com/node-modules/node-biginteger) - node.js version of java.math.BigInteger
 - [node-rsa](https://github.com/rzcoder/node-rsa) - Node.js RSA library
-- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档 v6.10.2
+- [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [eris](https://github.com/liriliri/eris) - Eustia modules
@@ -277,6 +283,7 @@
 - [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [webpack-doc](https://github.com/liunian/webpack-doc) - 个人业余 webpack 1.x 文档翻译（非官方）（未完成）
 - [blog-by-nodejs](https://github.com/chickencyj/blog-by-nodejs) - NodeJs + Mongoose + Express + jQuery + BootStrap + Ejs + Webpack搭建多人博客
@@ -320,6 +327,10 @@
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese) - Android官方培训课程中文版
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [echarts](https://github.com/ecomfe/echarts) - A powerful, interactive charting and visualization library for browser
+
+## Lua 
+
+- [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 
 ## Nginx 
 
