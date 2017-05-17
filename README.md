@@ -34,6 +34,8 @@
 
 ## C 
 
+- [2048](https://github.com/tomwillow/2048) - No Ads, More Advanced 2048 Game
+- [cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
 - [wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
 - [rsa-crack-cuda](https://github.com/mitchellwrosen/rsa-crack-cuda) - Pairwise GCD of RSA keys using CUDA
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -48,6 +50,7 @@
 
 ## C# # 
 
+- [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
 - [wpf-library](https://github.com/JoyceStack/wpf-library) - library for wpf
 - [WPF-Samples](https://github.com/Microsoft/WPF-Samples) - Repository for WPF related samples
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
@@ -171,6 +174,7 @@
 
 ## CSS 
 
+- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
@@ -198,6 +202,7 @@
 
 ## HTML 
 
+- [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - Helps you easily create GitHub-style buttons and toolbars using links, buttons, and inputs.
 - [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 - [repractise](https://github.com/phodal/repractise) - RePractise
 - [github-roam](https://github.com/phodal/github-roam) - GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
@@ -206,7 +211,7 @@
 - [weui](https://github.com/logoove/weui) - weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 - [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
-- [simple-html-invoice-template](https://github.com/NextStepWebs/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
+- [simple-html-invoice-template](https://github.com/sparksuite/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
 - [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The customizable pure CSS file icons
 - [http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
@@ -215,9 +220,8 @@
 - [Resume-it](https://github.com/xiao555/Resume-it) - A resume generator
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [dotnet](https://github.com/Microsoft/dotnet) - dotnet is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+- [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
-- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [zhuanbang-javascript-notes](https://github.com/Broszhu/zhuanbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
@@ -232,7 +236,7 @@
 - [H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [create-spring-boot-app](https://github.com/wxyyxc1992/create-spring-boot-app) - Spring Boot 项目模板：Gradle / Maven / Weixin
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - Android developers should collect the following utils(updating)
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 - [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
 - [sqlbuilder](https://github.com/jahlborn/sqlbuilder) - Mirror of the SqlBuilder project: http://openhms.sourceforge.net/sqlbuilder/
@@ -243,6 +247,9 @@
 
 ## JavaScript 
 
+- [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
+- [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
+- [jsonon](https://github.com/bimohxh/jsonon) - A json online view
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
@@ -251,8 +258,8 @@
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - zhihu daily spa with vue  线上演示在这里 ----&gt;
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [codemirror-spell-checker](https://github.com/NextStepWebs/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
-- [simplemde-markdown-editor](https://github.com/NextStepWebs/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+- [codemirror-spell-checker](https://github.com/sparksuite/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
+- [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
 - [weibo_comment](https://github.com/shanelau/weibo_comment) - 新浪微博的评论数据抓取和分析
 - [zhihu](https://github.com/shanelau/zhihu) - 知乎数据API 接口，用户信息、专栏文章信息、答题信息等等
@@ -338,6 +345,7 @@
 
 ## Others 
 
+- [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 - [node-interview-questions](https://github.com/shanelau/node-interview-questions) - nodejs 面试题精选、笔试题
 - [styleguide](https://github.com/fex-team/styleguide) - 文档与源码编写风格
@@ -385,7 +393,7 @@
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [of-release](https://github.com/open-falcon-archive/of-release) - falcon-plus
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
-- [android-open-project](https://github.com/Trinea/android-open-project) - Collect and classify android open source projects 微信公众号：codekk
+- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
 - [nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) - :notebook:Node.js api doc in Chinese
@@ -410,9 +418,12 @@
 
 ## Python 
 
+- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法》的笔记，文档翻译，解答和代码
+- [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.    🔞
 - [Python](https://github.com/RanFeng/Python) - My Python Programs
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili用户爬虫
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -448,6 +459,7 @@
 
 ## Vue 
 
+- [javascript-guessing-game](https://github.com/samiheikki/javascript-guessing-game) - You know there are too many JavaScript libraries when there is a game for it 🎯
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
