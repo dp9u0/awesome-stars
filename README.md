@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [CoffeeScript](#coffeescript)
   - [GCC Machine Description](#gcc machine description)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -34,6 +35,7 @@
 
 ## C 
 
+- [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) - 输入SQL，输出索引优化建议
 - [2048](https://github.com/tomwillow/2048) - No Ads, More Advanced 2048 Game
 - [cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
 - [wingup](https://github.com/gup4win/wingup) - WinGup - Generic Updater for Windows
@@ -186,6 +188,10 @@
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A lightweight, responsive and modern CSS framework.
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
 - [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
+
+## CoffeeScript 
+
+- [atom](https://github.com/atom/atom) - The hackable text editor :atom:
 
 ## GCC Machine Description 
 
@@ -419,7 +425,7 @@
 ## Python 
 
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法》的笔记，文档翻译，解答和代码
-- [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.    🔞
+- [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [Python](https://github.com/RanFeng/Python) - My Python Programs
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
