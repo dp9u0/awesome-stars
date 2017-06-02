@@ -52,6 +52,7 @@
 
 ## C# # 
 
+- [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
 - [wpf-library](https://github.com/JoyceStack/wpf-library) - library for wpf
 - [WPF-Samples](https://github.com/Microsoft/WPF-Samples) - Repository for WPF related samples
@@ -118,7 +119,6 @@
 - [TinyMapper](https://github.com/TinyMapper/TinyMapper) - A quick object-object mapper for .NET
 - [ravendb](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET
 - [Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
-- [log4net](https://github.com/apache/log4net) - Mirror of Apache log4net
 - [ServiceStackVS](https://github.com/ServiceStack/ServiceStackVS) - ServiceStackVS - Visual Studio extension for ServiceStack
 - [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 - [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
@@ -170,6 +170,7 @@
 
 ## C++ 
 
+- [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [microsoft-pdb](https://github.com/Microsoft/microsoft-pdb) - Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.
 - [leetcode-2](https://github.com/zhuli19901106/leetcode-2) - Leetcode revision.
@@ -191,6 +192,7 @@
 
 ## CoffeeScript 
 
+- [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 - [atom](https://github.com/atom/atom) - The hackable text editor :atom:
 
 ## GCC Machine Description 
@@ -208,6 +210,8 @@
 
 ## HTML 
 
+- [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+- [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - Helps you easily create GitHub-style buttons and toolbars using links, buttons, and inputs.
 - [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 - [repractise](https://github.com/phodal/repractise) - RePractise
@@ -215,7 +219,7 @@
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 - [weui](https://github.com/logoove/weui) - weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
-- [ionicons](https://github.com/driftyco/ionicons) - The premium icon font for Ionic
+- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [simple-html-invoice-template](https://github.com/sparksuite/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
 - [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The customizable pure CSS file icons
@@ -228,7 +232,7 @@
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
-- [zhuanbang-javascript-notes](https://github.com/Broszhu/zhuanbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+- [zhuanbang-javascript-notes](https://github.com/zhubangbang/zhuanbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA262
@@ -253,9 +257,16 @@
 
 ## JavaScript 
 
+- [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+- [cooking](https://github.com/ElemeFE/cooking) - 👨‍🍳 更易上手的前端构建工具
+- [html-loader](https://github.com/webpack-contrib/html-loader) - html loader module for webpack
+- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for node.js
+- [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
+- [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
-- [jsonon](https://github.com/bimohxh/jsonon) - A json online view
+- [jsonon](https://github.com/awesomes-cn/jsonon) - A json online view
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
@@ -269,7 +280,7 @@
 - [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
 - [weibo_comment](https://github.com/shanelau/weibo_comment) - 新浪微博的评论数据抓取和分析
 - [zhihu](https://github.com/shanelau/zhihu) - 知乎数据API 接口，用户信息、专栏文章信息、答题信息等等
-- [vue-zhihu](https://github.com/ddqre12345/vue-zhihu) - 学习进阶
+- [vue-zhihu](https://github.com/ddqre12345/vue-zhihu) - 知乎专栏
 - [tippyjs](https://github.com/atomiks/tippyjs) - A lightweight, pure JS tooltip library
 - [ueditor](https://github.com/netpi/ueditor) - :pencil: UEditor 官方支持的版本有PHP JSP ASP .NET.  ueditor for nodejs 可以让你的UEditor支持node.js
 - [ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
@@ -277,7 +288,7 @@
 - [front-end-handbook-2017](https://github.com/FrontendMasters/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
 - [wechat](https://github.com/node-webot/wechat) - 微信公共平台消息接口服务中间件
-- [wechat-api](https://github.com/node-webot/wechat-api) - Wechat API/主动调用API
+- [wechat-api](https://github.com/node-webot/wechat-api) - Wechat API / 主动调用 API
 - [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
 - [node-biginteger](https://github.com/node-modules/node-biginteger) - node.js version of java.math.BigInteger
 - [node-rsa](https://github.com/rzcoder/node-rsa) - Node.js RSA library
@@ -325,7 +336,7 @@
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [node-smb-server](https://github.com/adobe/node-smb-server) - A 100% JavaScript implementation of the SMB file sharing protocol.
-- [less.js](https://github.com/less/less.js) - Leaner CSS
+- [less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
@@ -351,6 +362,7 @@
 
 ## Others 
 
+- [xaml-standard](https://github.com/Microsoft/xaml-standard) - Vocabulary specification for the XAML Standard, a unified markup dialect for defining user interface elements and their behavior.
 - [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 - [node-interview-questions](https://github.com/shanelau/node-interview-questions) - nodejs 面试题精选、笔试题
@@ -374,9 +386,9 @@
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [api-guidelines](https://github.com/Microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [Good-text-Share](https://github.com/Wscats/Good-text-Share) - :smiley_cat:《前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
+- [Good-Text-Share](https://github.com/Wscats/Good-Text-Share) - :smiley_cat:《前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-- [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: A curated contents of amazing CSS Ever :)
+- [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: Awesome - A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
@@ -405,7 +417,7 @@
 - [nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) - :notebook:Node.js api doc in Chinese
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
-- [free-programming-books](https://github.com/vhf/free-programming-books) - :books: Freely available programming books
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites) - The repository is Android development favorites, It used to collect the knowledge of Android Development.
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -457,6 +469,7 @@
 
 ## TypeScript 
 
+- [vue-typescript-example](https://github.com/kaorun343/vue-typescript-example) - For Vue 1.0 and TS 1.8, not for Vue 2.0 and TS 2.0
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
@@ -465,6 +478,8 @@
 
 ## Vue 
 
+- [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [javascript-guessing-game](https://github.com/samiheikki/javascript-guessing-game) - You know there are too many JavaScript libraries when there is a game for it 🎯
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
