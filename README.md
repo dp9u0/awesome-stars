@@ -52,6 +52,7 @@
 
 ## C# # 
 
+- [Dos.Common](https://github.com/itdos/Dos.Common) - 常用开发类库，提高开发效率
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
 - [wpf-library](https://github.com/JoyceStack/wpf-library) - library for wpf
@@ -257,6 +258,10 @@
 
 ## JavaScript 
 
+- [es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
+- [promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
+- [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
+- [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - Modular Lodash builds without the hassle.
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [cooking](https://github.com/ElemeFE/cooking) - 👨‍🍳 更易上手的前端构建工具
 - [html-loader](https://github.com/webpack-contrib/html-loader) - html loader module for webpack
@@ -362,6 +367,8 @@
 
 ## Others 
 
+- [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [xaml-standard](https://github.com/Microsoft/xaml-standard) - Vocabulary specification for the XAML Standard, a unified markup dialect for defining user interface elements and their behavior.
 - [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
@@ -478,6 +485,7 @@
 
 ## Vue 
 
+- [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [javascript-guessing-game](https://github.com/samiheikki/javascript-guessing-game) - You know there are too many JavaScript libraries when there is a game for it 🎯
