@@ -52,6 +52,7 @@
 
 ## C# # 
 
+- [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
 - [Dos.Common](https://github.com/itdos/Dos.Common) - 常用开发类库，提高开发效率
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
@@ -171,6 +172,7 @@
 
 ## C++ 
 
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [microsoft-pdb](https://github.com/Microsoft/microsoft-pdb) - Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.
@@ -211,6 +213,7 @@
 
 ## HTML 
 
+- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - Helps you easily create GitHub-style buttons and toolbars using links, buttons, and inputs.
@@ -233,7 +236,7 @@
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
-- [zhuanbang-javascript-notes](https://github.com/zhubangbang/zhuanbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+- [zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA262
@@ -258,6 +261,10 @@
 
 ## JavaScript 
 
+- [angular-websocket](https://github.com/AngularClass/angular-websocket) - :arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass
+- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
+- [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
+- [angular](https://github.com/OOP-Code-Bunny/angular) - 所有angular学习过程中的代码
 - [es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
 - [promises-book](https://github.com/azu/promises-book) - JavaScript Promiseの本
 - [lodash-webpack-plugin](https://github.com/lodash/lodash-webpack-plugin) - Smaller modular Lodash builds.
@@ -367,6 +374,7 @@
 
 ## Others 
 
+- [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [xaml-standard](https://github.com/Microsoft/xaml-standard) - Vocabulary specification for the XAML Standard, a unified markup dialect for defining user interface elements and their behavior.
@@ -476,6 +484,8 @@
 
 ## TypeScript 
 
+- [ng2-admin](https://github.com/akveo/ng2-admin) - Angular admin dashboard framework
+- [Angular2](https://github.com/xiaomoinfo/Angular2) - v2.4.10 官方教程配套(angular)源码(ng-book2)同步更新：ng-book2 source code (keywords:angular angular2 )
 - [vue-typescript-example](https://github.com/kaorun343/vue-typescript-example) - For Vue 1.0 and TS 1.8, not for Vue 2.0 and TS 2.0
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 - [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.
