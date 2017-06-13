@@ -196,7 +196,7 @@
 ## CoffeeScript 
 
 - [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
-- [atom](https://github.com/atom/atom) - The hackable text editor :atom:
+- [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## GCC Machine Description 
 
@@ -213,6 +213,7 @@
 
 ## HTML 
 
+- [angular-notify](https://github.com/cgross/angular-notify) - Minimalistic and extensible notification service for Angular.
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
@@ -261,6 +262,8 @@
 
 ## JavaScript 
 
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
 - [angular-websocket](https://github.com/AngularClass/angular-websocket) - :arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass
 - [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
 - [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
@@ -374,6 +377,7 @@
 
 ## Others 
 
+- [Localization](https://github.com/Microsoft/Localization) - Community Localization for Cloud and Enterprise
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
