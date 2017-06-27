@@ -23,6 +23,7 @@
   - [PHP](#php)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Rascal](#rascal)
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -52,13 +53,13 @@
 
 ## C# # 
 
-- [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
+- [fudge](https://github.com/EricFreeman/fudge) - Fix command line spelling errors like it's 1999.
 - [Dos.Common](https://github.com/itdos/Dos.Common) - 常用开发类库，提高开发效率
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
 - [wpf-library](https://github.com/JoyceStack/wpf-library) - library for wpf
 - [WPF-Samples](https://github.com/Microsoft/WPF-Samples) - Repository for WPF related samples
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [worlds-simplest-csharp-wpf-mvvm-example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - The World's Simplest C# WPF MVVM Example
 - [wpfspark](https://github.com/ratishphilip/wpfspark) - A rich UserControl library to enhance the look and feel of WPF applications.
 - [DownmarkerWPF](https://github.com/Code52/DownmarkerWPF) - MarkPad - a visual Markdown editor (inspired by the Downmarker project)
@@ -180,6 +181,8 @@
 
 ## CSS 
 
+- [nodejs-socketio-chat](https://github.com/plhwin/nodejs-socketio-chat) - A simple chat demo by using Node.js and Socket.IO
+- [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
@@ -189,6 +192,7 @@
 - [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [front-end-handbook](https://github.com/dwqs/front-end-handbook) - Front-end Developer HandBook. Read online: https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A lightweight, responsive and modern CSS framework.
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
 - [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
@@ -213,6 +217,7 @@
 
 ## HTML 
 
+- [angular2-demo](https://github.com/angularLovers/angular2-demo) - angular2 study project(angular2+webpack+sass+bootstrap),if you feel if helpful,you could star and fork!!
 - [angular-notify](https://github.com/cgross/angular-notify) - Minimalistic and extensible notification service for Angular.
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
@@ -232,8 +237,7 @@
 - [css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
 - [blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-- [Resume-it](https://github.com/xiao555/Resume-it) - A resume generator
-- [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+- [resume-it](https://github.com/xiao555/resume-it) - A resume generator
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
@@ -262,6 +266,18 @@
 
 ## JavaScript 
 
+- [Web-Development-And-Engineering-Practices](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices) - 我的前端之路：Web 开发基础与工程实践
+- [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
+- [art-template](https://github.com/aui/art-template) - 性能卓越的 js 模板引擎
+- [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
+- [FE-Learning](https://github.com/EdgarLovesProgramming/FE-Learning) - 前端知识点学习
+- [DatabaseStack](https://github.com/unruledboy/DatabaseStack) - database technology stack, including MS SQL Server, Azure etc.
+- [DevelopmentStack](https://github.com/unruledboy/DevelopmentStack) - System development basics, analysis, project/planning, documentation, wireframe/mockup, design/modeling, implementation, quality, management, build, testing, deployment, maintenance, troubleshooting, learning
+- [WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack) - web front end stack: browsers, platforms, libraries, frameworks, tools etc.
+- [DotNetStack](https://github.com/unruledboy/DotNetStack) - .NET technology stack, including frameworks, platforms, IDE, SDKs, desktop, web, SOA, data, productivity, components, tools etc
+- [fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
+- [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
+- [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
 - [angular-websocket](https://github.com/AngularClass/angular-websocket) - :arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass
@@ -322,7 +338,7 @@
 - [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。
+- [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [webpack-doc](https://github.com/liunian/webpack-doc) - 个人业余 webpack 1.x 文档翻译（非官方）（未完成）
 - [blog-by-nodejs](https://github.com/chickencyj/blog-by-nodejs) - NodeJs + Mongoose + Express + jQuery + BootStrap + Ejs + Webpack搭建多人博客
@@ -377,6 +393,18 @@
 
 ## Others 
 
+- [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - [Deprecated] Community-driven set of best practices and style guidelines for Angular 2 application development
+- [Front--end--tutorial](https://github.com/MoonYaph/Front--end--tutorial) - 前端知识
+- [webQd](https://github.com/wangwenjie1314/webQd) - web前端相关的知识点
+- [Front--end--stack](https://github.com/Aierui/Front--end--stack) - 「前端知识框架」  --  较全的前端知识
+- [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
+- [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
+- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
+- [AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning) - A list of resources for learning Angular2
+- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [Windows](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows !
 - [Localization](https://github.com/Microsoft/Localization) - Community Localization for Cloud and Enterprise
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
@@ -412,7 +440,6 @@
 - [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
 - [amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
-- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
 - [frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
 - [FE-interview](https://github.com/qiu-deqing/FE-interview) - 收集的前端面试题和答案
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -435,7 +462,7 @@
 - [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
 - [nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) - :notebook:Node.js api doc in Chinese
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
+- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites) - The repository is Android development favorites, It used to collect the knowledge of Android Development.
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
@@ -468,6 +495,10 @@
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 
+## Rascal 
+
+- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
+
 ## Ruby 
 
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - See 2nd edition at progit2
@@ -488,6 +519,9 @@
 
 ## TypeScript 
 
+- [switching-to-angular2](https://github.com/mgechev/switching-to-angular2) - 
+- [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
+- [material2](https://github.com/angular/material2) - Material Design components for Angular
 - [ng2-admin](https://github.com/akveo/ng2-admin) - Angular admin dashboard framework
 - [Angular2](https://github.com/xiaomoinfo/Angular2) - v2.4.10 官方教程配套(angular)源码(ng-book2)同步更新：ng-book2 source code (keywords:angular angular2 )
 - [vue-typescript-example](https://github.com/kaorun343/vue-typescript-example) - For Vue 1.0 and TS 1.8, not for Vue 2.0 and TS 2.0
