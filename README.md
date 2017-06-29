@@ -181,6 +181,7 @@
 
 ## CSS 
 
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [nodejs-socketio-chat](https://github.com/plhwin/nodejs-socketio-chat) - A simple chat demo by using Node.js and Socket.IO
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
 - [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
@@ -217,6 +218,10 @@
 
 ## HTML 
 
+- [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components
+- [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
+- [pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
 - [angular2-demo](https://github.com/angularLovers/angular2-demo) - angular2 study project(angular2+webpack+sass+bootstrap),if you feel if helpful,you could star and fork!!
 - [angular-notify](https://github.com/cgross/angular-notify) - Minimalistic and extensible notification service for Angular.
 - [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
@@ -266,6 +271,20 @@
 
 ## JavaScript 
 
+- [youmightnotneedunderscore](https://github.com/reindexio/youmightnotneedunderscore) - https://www.reindex.io/blog/you-might-not-need-underscore/
+- [nodash](https://github.com/hax/nodash) - 
+- [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
+- [sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
+- [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+- [flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
+- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
+- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+- [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+- [quasar-cli](https://github.com/quasarframework/quasar-cli) - Quasar Framework - CLI
 - [Web-Development-And-Engineering-Practices](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices) - 我的前端之路：Web 开发基础与工程实践
 - [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
 - [art-template](https://github.com/aui/art-template) - 性能卓越的 js 模板引擎
@@ -393,6 +412,8 @@
 
 ## Others 
 
+- [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the &lt;head&gt; of your document
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - [Deprecated] Community-driven set of best practices and style guidelines for Angular 2 application development
 - [Front--end--tutorial](https://github.com/MoonYaph/Front--end--tutorial) - 前端知识
 - [webQd](https://github.com/wangwenjie1314/webQd) - web前端相关的知识点
@@ -519,6 +540,7 @@
 
 ## TypeScript 
 
+- [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [switching-to-angular2](https://github.com/mgechev/switching-to-angular2) - 
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
