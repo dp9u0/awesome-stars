@@ -18,6 +18,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lua](#lua)
+  - [Matlab](#matlab)
   - [Nginx](#nginx)
   - [Others](#others)
   - [PHP](#php)
@@ -108,7 +109,7 @@
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [EasyHttp](https://github.com/EasyHttp/EasyHttp) - Http Library for C#
 - [RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - A lightweight cross-platform RPC.
-- [MusicStore](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
+- [MusicStore](https://github.com/aspnet/MusicStore) - MusicStore test application that uses ASP.NET/EF Core
 - [SocialGoal](https://github.com/MarlabsInc/SocialGoal) - Sample web app for ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac and TDD
 - [Common](https://github.com/aspnet/Common) - A repository for shared files to be consumed across the ASPNET repos
 - [KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - A cross platform web server for ASP.NET Core.
@@ -161,18 +162,20 @@
 - [DbUtility](https://github.com/Ivony/DbUtility) - a light database access tool
 - [Craig-s-Utility-Library](https://github.com/JaCraig/Craig-s-Utility-Library) - Main repo for Craig's Utility Library
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
-- [corefx](https://github.com/dotnet/corefx) - This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others.
+- [corefx](https://github.com/dotnet/corefx) - This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.
 - [sharpcompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
 - [Mvc](https://github.com/aspnet/Mvc) - ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
 - [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms.
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
 - [google-api-dotnet-client](https://github.com/google/google-api-dotnet-client) - Google APIs Client Library for .NET
 - [nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
-- [coreclr](https://github.com/dotnet/coreclr) - This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes.
+- [coreclr](https://github.com/dotnet/coreclr) - This repo contains the .NET Core runtime, called CoreCLR, and the base library, called mscorlib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes. We welcome contributions.
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 
 ## C++ 
 
+- [covbasic](https://github.com/mikecovlee/covbasic) - Covariant Basic Programming Language
+- [ELF](https://github.com/facebookresearch/ELF) - An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
@@ -181,6 +184,7 @@
 
 ## CSS 
 
+- [json-api-zh_CN](https://github.com/justjavac/json-api-zh_CN) - 用 JSON 构建 API 的标准指南
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [nodejs-socketio-chat](https://github.com/plhwin/nodejs-socketio-chat) - A simple chat demo by using Node.js and Socket.IO
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
@@ -271,6 +275,11 @@
 
 ## JavaScript 
 
+- [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
+- [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for CLIs
+- [TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
+- [gulp-zip](https://github.com/sindresorhus/gulp-zip) - ZIP compress files
 - [youmightnotneedunderscore](https://github.com/reindexio/youmightnotneedunderscore) - https://www.reindex.io/blog/you-might-not-need-underscore/
 - [nodash](https://github.com/hax/nodash) - 
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
@@ -406,12 +415,19 @@
 
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 
+## Matlab 
+
+- [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
+
 ## Nginx 
 
 - [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
 
 ## Others 
 
+- [the-front-end-knowledge-you-may-dont-know](https://github.com/justjavac/the-front-end-knowledge-you-may-dont-know) - :innocent: 你可能不知道的前端知识点
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+- [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
 - [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the &lt;head&gt; of your document
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - [Deprecated] Community-driven set of best practices and style guidelines for Angular 2 application development
@@ -507,7 +523,6 @@
 - [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [Python](https://github.com/RanFeng/Python) - My Python Programs
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [Coding-Guide](https://github.com/ecmadao/Coding-Guide) - 自己随手记录的东西
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili用户爬虫
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
