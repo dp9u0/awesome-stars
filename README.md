@@ -94,7 +94,7 @@
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
 - [FastSocket.Net](https://github.com/ihaoqihao/FastSocket.Net) - c#异步通信库
 - [WechatExport-iOS](https://github.com/tiancaihb/WechatExport-iOS) - Save iOS WeChat history as HTML or TXT with neat layout and picture & audio support.
-- [SqlSugar](https://github.com/sunkaixuan/SqlSugar) - Best ORM    Fastest ORM   Simple Easy  orm ORM Orm ORm oRm     API: See README.md
+- [SqlSugar](https://github.com/sunkaixuan/SqlSugar) - Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm
 - [ASP_NET_CORE_ORM_SqlSugar](https://github.com/sunkaixuan/ASP_NET_CORE_ORM_SqlSugar) - .NET Core SqlServer ORM    Fastest ORM , Simple oRM, Easy ORm oRm Orm      API: See README.md
 - [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -222,6 +222,7 @@
 
 ## HTML 
 
+- [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
 - [pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project.
@@ -275,6 +276,12 @@
 
 ## JavaScript 
 
+- [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
+- [jquery-tmpl](https://github.com/BorisMoore/jquery-tmpl) - The original official jQuery Templates plugin. This project was maintained by the jQuery team as an official jQuery plugin. It is no longer in active development, and will be superseded by JsRender.
+- [handlebars.js](https://github.com/wycats/handlebars.js) - 
+- [kissy](https://github.com/kissyteam/kissy) - A Powerful Collection Of Modules
+- [cnpmjs.org](https://github.com/cnpm/cnpmjs.org) - Private npm registry and web for Enterprise
+- [watch](https://github.com/mikeal/watch) - Utilities for watching file trees in node.js
 - [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for CLIs
@@ -324,6 +331,7 @@
 - [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
 - [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
+- [javascript-guessing-game](https://github.com/samiheikki/javascript-guessing-game) - You know there are too many JavaScript libraries when there is a game for it 🎯
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
 - [jsonon](https://github.com/awesomes-cn/jsonon) - A json online view
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
@@ -537,6 +545,7 @@
 
 ## Ruby 
 
+- [mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - See 2nd edition at progit2
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -573,7 +582,6 @@
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
-- [javascript-guessing-game](https://github.com/samiheikki/javascript-guessing-game) - You know there are too many JavaScript libraries when there is a game for it 🎯
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
