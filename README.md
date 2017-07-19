@@ -174,8 +174,9 @@
 
 ## C++ 
 
-- [covbasic](https://github.com/mikecovlee/covbasic) - Covariant Basic Programming Language
-- [ELF](https://github.com/facebookresearch/ELF) - An Extensive, Lightweight and Flexible Research Platform for Real-time Strategy Games
+- [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.
+- [covscript](https://github.com/mikecovlee/covscript) - Covariant Script Programming Language
+- [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
@@ -184,6 +185,7 @@
 
 ## CSS 
 
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [json-api-zh_CN](https://github.com/justjavac/json-api-zh_CN) - 用 JSON 构建 API 的标准指南
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [nodejs-socketio-chat](https://github.com/plhwin/nodejs-socketio-chat) - A simple chat demo by using Node.js and Socket.IO
@@ -276,6 +278,7 @@
 
 ## JavaScript 
 
+- [core-js](https://github.com/zloirock/core-js) - Standard Library
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [jquery-tmpl](https://github.com/BorisMoore/jquery-tmpl) - The original official jQuery Templates plugin. This project was maintained by the jQuery team as an official jQuery plugin. It is no longer in active development, and will be superseded by JsRender.
 - [handlebars.js](https://github.com/wycats/handlebars.js) - 
@@ -284,7 +287,7 @@
 - [watch](https://github.com/mikeal/watch) - Utilities for watching file trees in node.js
 - [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [titanic](https://github.com/icons8/titanic) - A set of animated icons + code to insert them into the webpages
-- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for CLIs
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 - [gulp-zip](https://github.com/sindresorhus/gulp-zip) - ZIP compress files
 - [youmightnotneedunderscore](https://github.com/reindexio/youmightnotneedunderscore) - https://www.reindex.io/blog/you-might-not-need-underscore/
@@ -564,6 +567,8 @@
 
 ## TypeScript 
 
+- [vscode-node-debug2](https://github.com/Microsoft/vscode-node-debug2) - A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol.
+- [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
 - [switching-to-angular2](https://github.com/mgechev/switching-to-angular2) - 
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
@@ -579,6 +584,7 @@
 
 ## Vue 
 
+- [vue-objccn](https://github.com/halfrost/vue-objccn) - 🔥  用 Vue.js 开发的跨三端应用 / Use Vue.js to develop a cross-platform full stack application
 - [vue2-manage](https://github.com/bailicangdu/vue2-manage) - 基于 vue + element-ui 的后台管理系统
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
