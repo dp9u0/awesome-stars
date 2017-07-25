@@ -224,6 +224,7 @@
 
 ## HTML 
 
+- [cyclejs.cn](https://github.com/CyclejsCN/cyclejs.cn) - The Cycle.js Chinese documentation website.
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
@@ -278,6 +279,7 @@
 
 ## JavaScript 
 
+- [growth](https://github.com/phodal/growth) - Growth 3.0 with React Native - a app to help you to be Awesome Developer
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [jquery-tmpl](https://github.com/BorisMoore/jquery-tmpl) - The original official jQuery Templates plugin. This project was maintained by the jQuery team as an official jQuery plugin. It is no longer in active development, and will be superseded by JsRender.
@@ -567,6 +569,7 @@
 
 ## TypeScript 
 
+- [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [vscode-node-debug2](https://github.com/Microsoft/vscode-node-debug2) - A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol.
 - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
 - [ant-design](https://github.com/ant-design/ant-design) - 🐜 A UI Design Language
