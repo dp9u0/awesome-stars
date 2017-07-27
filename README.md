@@ -54,11 +54,10 @@
 
 ## C# # 
 
-- [fudge](https://github.com/EricFreeman/fudge) - Fix command line spelling errors like it's 1999.
+- [fuck](https://github.com/EricFreeman/fuck) - Fix command line spelling errors like it's 1999.
 - [Dos.Common](https://github.com/itdos/Dos.Common) - 常用开发类库，提高开发效率
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
-- [wpf-library](https://github.com/JoyceStack/wpf-library) - library for wpf
 - [WPF-Samples](https://github.com/Microsoft/WPF-Samples) - Repository for WPF related samples
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [worlds-simplest-csharp-wpf-mvvm-example](https://github.com/MarkWithall/worlds-simplest-csharp-wpf-mvvm-example) - The World's Simplest C# WPF MVVM Example
@@ -254,7 +253,7 @@
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
-- [zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes) - 朱安邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
+- [zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes) - 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA262
@@ -279,6 +278,11 @@
 
 ## JavaScript 
 
+- [ypromise](https://github.com/yahoo/ypromise) - An ES6 Promise polyfill
+- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
+- [bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
+- [q](https://github.com/kriskowal/q) - A promise library for JavaScript
+- [promises-book](https://github.com/liubin/promises-book) - JavaScript Promise迷你书
 - [growth](https://github.com/phodal/growth) - Growth 3.0 with React Native - a app to help you to be Awesome Developer
 - [core-js](https://github.com/zloirock/core-js) - Standard Library
 - [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
