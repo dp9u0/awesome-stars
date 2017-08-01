@@ -37,6 +37,7 @@
 
 ## C 
 
+- [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) - 算法学习笔记
 - [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) - 输入SQL，输出索引优化建议
 - [2048](https://github.com/tomwillow/2048) - No Ads, More Advanced 2048 Game
 - [cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
@@ -223,6 +224,7 @@
 
 ## HTML 
 
+- [WPFConverters](https://github.com/kentcb/WPFConverters) - This project contains a set of generic binding converters that can be used in most any WPF (or Silverlight) application.
 - [cyclejs.cn](https://github.com/CyclejsCN/cyclejs.cn) - The Cycle.js Chinese documentation website.
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components
@@ -231,7 +233,7 @@
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
 - [angular2-demo](https://github.com/angularLovers/angular2-demo) - angular2 study project(angular2+webpack+sass+bootstrap),if you feel if helpful,you could star and fork!!
 - [angular-notify](https://github.com/cgross/angular-notify) - Minimalistic and extensible notification service for Angular.
-- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular 2 and Angular 4 resources by @AngularClass
+- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @AngularClass a @OneSpeed-io company
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - Helps you easily create GitHub-style buttons and toolbars using links, buttons, and inputs.
@@ -278,6 +280,8 @@
 
 ## JavaScript 
 
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [shields](https://github.com/badges/shields) - Shields badge specification, website and default API server
 - [ypromise](https://github.com/yahoo/ypromise) - An ES6 Promise polyfill
 - [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
 - [bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
@@ -325,7 +329,7 @@
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
 - [angular-websocket](https://github.com/AngularClass/angular-websocket) - :arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass
-- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass
+- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass  a @OneSpeed-io company
 - [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 - [angular](https://github.com/OOP-Code-Bunny/angular) - 所有angular学习过程中的代码
 - [es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
@@ -442,6 +446,7 @@
 
 ## Others 
 
+- [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [js-stackoverflow-highest-votes](https://github.com/simongong/js-stackoverflow-highest-votes) - A collection of `javascript` questions with highest votes on Stack Overflow
 - [awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 - [the-front-end-knowledge-you-may-dont-know](https://github.com/justjavac/the-front-end-knowledge-you-may-dont-know) - :innocent: 你可能不知道的前端知识点
@@ -538,6 +543,7 @@
 
 ## Python 
 
+- [algorithm-exercise](https://github.com/billryan/algorithm-exercise) - Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法》的笔记，文档翻译，解答和代码
 - [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [Python](https://github.com/RanFeng/Python) - My Python Programs
@@ -556,6 +562,7 @@
 
 ## Ruby 
 
+- [progit2-gitbook](https://github.com/bingohuang/progit2-gitbook) - Pro Gi­t 第二版 ­简体中文
 - [mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - See 2nd edition at progit2
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun again.
