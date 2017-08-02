@@ -446,6 +446,7 @@
 
 ## Others 
 
+- [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [js-stackoverflow-highest-votes](https://github.com/simongong/js-stackoverflow-highest-votes) - A collection of `javascript` questions with highest votes on Stack Overflow
 - [awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
