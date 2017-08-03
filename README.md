@@ -11,7 +11,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
-  - [GCC Machine Description](#gcc machine description)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -208,10 +207,6 @@
 
 - [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
-
-## GCC Machine Description 
-
-- [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa) - stackoverflow上Java相关回答整理翻译
 
 ## Go 
 
