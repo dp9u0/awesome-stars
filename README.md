@@ -446,6 +446,7 @@
 
 ## Others 
 
+- [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [js-stackoverflow-highest-votes](https://github.com/simongong/js-stackoverflow-highest-votes) - A collection of `javascript` questions with highest votes on Stack Overflow
