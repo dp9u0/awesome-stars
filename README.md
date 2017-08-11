@@ -184,6 +184,7 @@
 
 ## CSS 
 
+- [docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [json-api-zh_CN](https://github.com/justjavac/json-api-zh_CN) - 用 JSON 构建 API 的标准指南
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
@@ -205,6 +206,7 @@
 
 ## CoffeeScript 
 
+- [coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
 - [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
@@ -219,6 +221,9 @@
 
 ## HTML 
 
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+- [ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
+- [growth-in-action](https://github.com/phodal/growth-in-action) - 全栈增长工程师实战
 - [WPFConverters](https://github.com/kentcb/WPFConverters) - This project contains a set of generic binding converters that can be used in most any WPF (or Silverlight) application.
 - [cyclejs.cn](https://github.com/CyclejsCN/cyclejs.cn) - The Cycle.js Chinese documentation website.
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
@@ -261,6 +266,7 @@
 
 ## Java 
 
+- [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
 - [H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [create-spring-boot-app](https://github.com/wxyyxc1992/create-spring-boot-app) - Spring Boot 项目模板：Gradle / Maven / Weixin
@@ -275,6 +281,16 @@
 
 ## JavaScript 
 
+- [debounce-throttle](https://github.com/dcorb/debounce-throttle) - Debounce & Throtte JavaScript demo
+- [hanzichi.github.io](https://github.com/hanzichi/hanzichi.github.io) - :fire: All my demos here
+- [underscore-analysis](https://github.com/hanzichi/underscore-analysis) - Underscore.js 源码解读 & 系列文章（完 :heavy_exclamation_mark:）
+- [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
+- [react-admin](https://github.com/yezihaohao/react-admin) - react-admin system solution : react 后台管理系统解决方案
+- [JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
+- [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: source code bundle of JavaScript algorithms and data structures book
+- [itsy-bitsy-data-structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
+- [algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
+- [incubator-weex](https://github.com/apache/incubator-weex) - Mirror of Apache Weex
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [shields](https://github.com/badges/shields) - Shields badge specification, website and default API server
 - [ypromise](https://github.com/yahoo/ypromise) - An ES6 Promise polyfill
@@ -540,6 +556,7 @@
 
 ## Python 
 
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [algorithm-exercise](https://github.com/billryan/algorithm-exercise) - Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/
 - [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法》的笔记，文档翻译，解答和代码
 - [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
