@@ -36,6 +36,8 @@
 
 ## C 
 
+- [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [csapp](https://github.com/mofaph/csapp) - Computer Systems: A Programmer's Perspective
 - [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) - 算法学习笔记
 - [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) - 输入SQL，输出索引优化建议
@@ -48,13 +50,29 @@
 - [EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
 - [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)
 - [git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 
 ## C# # 
 
+- [Natasha](https://github.com/dotnetcore/Natasha) - 简化IL操作，优化IL编程流程，编写提供高性能的动态缓存，像写普通代码一样去写IL代码。
+- [Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
+- [EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is a open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
+- [surging](https://github.com/dotnetcore/surging) - surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
+- [CAP](https://github.com/dotnetcore/CAP) - CAP is a library based on .Net standard, which is a solution to deal with distributed transactions, also has the function of EventBus, it is lightweight, easy to use, and efficiently.
+- [Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core) - 支付宝（Alipay）服务端SDK AopSdk，修改自官方最新版本：113。采用.NET Standard 2.0，支持.NET Core 2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。不仅仅支持支付，官方SDK支持的功能本SDK全部支持用法几乎一样。
+- [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET
+- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - ⚡️一个使用 .NET Core 2.0 开发的简单易用的领域驱动设计分层框架（DDD+CQRS），宗旨是让小型应用也能用DDD的思想去开发，使开发者告别对领域驱动设计的复杂认识。
+- [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
+- [LearnMono](https://github.com/yanghanggit/LearnMono) - 
+- [C.math.NET](https://github.com/MachineCognitis/C.math.NET) - Implements several C Standard mathematical functions (frexp, logb, ldexp, nextafter, etc.) that are missing from the .NET Framework
+- [StbSharp](https://github.com/rds1983/StbSharp) - C# port of the famous C framework
+- [sharpgl](https://github.com/dwmkerr/sharpgl) - Use OpenGL in .NET applications. SharpGL wraps all modern OpenGL features and offers a powerful scene graph to aid development.
+- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [osharp](https://github.com/i66soft/osharp) - osharp framework version 3.x
+- [ConcurrentList](https://github.com/dtao/ConcurrentList) - A thread-safe, lock-free implementation of the IList&lt;T&gt; interface for .NET
+- [Utf8Json](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 - [Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
@@ -90,7 +108,7 @@
 - [Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions
 - [Tx](https://github.com/Microsoft/Tx) - Tx (LINQ to Events)
 - [MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
-- [LinqToExcel](https://github.com/paulyoder/LinqToExcel) - Retrieve data from spreadsheets and csv files by using LINQ
+- [LinqToExcel](https://github.com/paulyoder/LinqToExcel) - Use LINQ to retrieve data from spreadsheets and csv files
 - [cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
 - [Hunter3](https://github.com/Froser/Hunter3) - A web crawler which can download doc\docx\
 - [Quick](https://github.com/Froser/Quick) - A convenience tool makes you more effective
@@ -101,7 +119,7 @@
 - [ASP_NET_CORE_ORM_SqlSugar](https://github.com/sunkaixuan/ASP_NET_CORE_ORM_SqlSugar) - .NET Core SqlServer ORM    Fastest ORM , Simple oRM, Easy ORm oRm Orm      API: See README.md
 - [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [cron-expression-descriptor](https://github.com/bradyholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
+- [cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 - [CronExpression.NET](https://github.com/windeagle/CronExpression.NET) - A CronExpression parser written in C#
 - [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET
 - [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A toolkit for creating Metro / Modern UI styled WPF apps.
@@ -123,14 +141,13 @@
 - [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [DotNetDetour](https://github.com/bigbaldy1128/DotNetDetour) - 
 - [TinyMapper](https://github.com/TinyMapper/TinyMapper) - A quick object-object mapper for .NET
-- [ravendb](https://github.com/ravendb/ravendb) - ACID NoSQL Document Database
+- [ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 - [Chloe](https://github.com/shuxinqin/Chloe) - A lightweight and high-performance Object/Relational Mapping(ORM) library for .NET  --C#
 - [ServiceStackVS](https://github.com/ServiceStack/ServiceStackVS) - ServiceStackVS - Visual Studio extension for ServiceStack
 - [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 - [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
 - [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
-- [commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
 - [StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, bitcoins and options).
 - [Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)
 - [nodatime](https://github.com/nodatime/nodatime) - A better date and time API for .NET
@@ -140,7 +157,7 @@
 - [CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [System.Linq.Dynamic](https://github.com/kahanu/System.Linq.Dynamic) - This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
-- [Titanium-Web-Proxy](https://github.com/justcoding121/Titanium-Web-Proxy) - A cross platform, light weight, low memory footprint and high performant http(s) proxy server in C#
+- [Titanium-Web-Proxy](https://github.com/justcoding121/Titanium-Web-Proxy) - A cross platform, low memory foot-printed and high performant http(s) proxy server in C#
 - [we-text](https://github.com/daxnet/we-text) - WeText is a sample application that demonstrates the implementation of DDD/CQRS and microservice architectural patterns in C#.
 - [Apworks](https://github.com/daxnet/Apworks) - Apworks is a flexible, scalable, configurable and efficient .NET based application development framework that helps software developers to easily build enterprise applications by applying either Classic Layering or Command-Query Responsibility Segregation (CQRS) architectural patterns.
 - [equeue](https://github.com/tangxuehua/equeue) - a distributed mq written by c#.
@@ -148,7 +165,7 @@
 - [quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 - [hbase-sdk-for-net](https://github.com/hdinsight/hbase-sdk-for-net) - Microsoft HBase REST Client Library for .NET
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
-- [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边。 WeChat SDK for C#.
+- [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 - [winsw](https://github.com/kohsuke/winsw) - A wrapper executable that can be used to host any executable as an Windows service, in a liberal license
 - [Hmac.WebApi](https://github.com/cuongle/Hmac.WebApi) - Hmac authentication with ASP.NET Web Api
 - [akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
@@ -159,7 +176,7 @@
 - [Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 - [Windows-TaskSchedule](https://github.com/leleroyn/Windows-TaskSchedule) - Windows下的任务调试框架， 支持Cron表达式，支持任务以插件形式添加，支持调用外部程序，支持部署为windows服务...
 - [WeiboSDK](https://github.com/NetDimension/WeiboSDK) - 新浪微博SDK for .Net
-- [unirest-net](https://github.com/Mashape/unirest-net) - Unirest in .NET: Simplified, lightweight HTTP client library.
+- [unirest-net](https://github.com/Kong/unirest-net) - Unirest in .NET: Simplified, lightweight HTTP client library.
 - [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) - Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts
 - [DbUtility](https://github.com/Ivony/DbUtility) - a light database access tool
 - [Craig-s-Utility-Library](https://github.com/JaCraig/Craig-s-Utility-Library) - Main repo for Craig's Utility Library
@@ -176,14 +193,27 @@
 
 ## C++ 
 
+- [OpenGL-ES-2.0-cpp](https://github.com/elloop/OpenGL-ES-2.0-cpp) - OpenGL ES 2.0 programming in c++
+- [hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+- [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+- [DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
+- [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [engine](https://github.com/StarEngine/engine) - Crossplatform C++11 2D Game Engine for Desktop and Mobile games
+- [glm](https://github.com/g-truc/glm) - OpenGL Mathematics (GLM)
+- [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [SimpleEngine](https://github.com/oceancx/SimpleEngine) - 仿梦幻西游
+- [EasyPR](https://github.com/linuxxx/EasyPR) - An open source project for chinese plate recognition. It aims to be Easy, Flexible, and Accurate. Welcome to contribute your expertise !
 - [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.
-- [covscript](https://github.com/mikecovlee/covscript) - Covariant Script Programming Language
+- [covscript](https://github.com/covscript/covscript) - The Covariant Script Programming Language
 - [ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [microsoft-pdb](https://github.com/Microsoft/microsoft-pdb) - Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.
 - [leetcode-2](https://github.com/zhuli19901106/leetcode-2) - Leetcode revision.
+- [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+- [grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 
 ## CSS 
 
@@ -193,20 +223,22 @@
 - [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [nodejs-socketio-chat](https://github.com/plhwin/nodejs-socketio-chat) - A simple chat demo by using Node.js and Socket.IO
 - [for-the-badge](https://github.com/BraveUX/for-the-badge) - Badges for badges' sake.
-- [normalize.css](https://github.com/necolas/normalize.css) - A collection of HTML element and attribute style-normalizations
+- [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
 - [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [iconpark](https://github.com/lvwzhen/iconpark) - Collection of iconfonts
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
+- [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The customizable pure CSS file icons
 - [front-end-handbook](https://github.com/dwqs/front-end-handbook) - Front-end Developer HandBook. Read online: https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A lightweight, responsive and modern CSS framework.
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a Lightweight, Responsive and Modern CSS Framework
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
-- [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## CoffeeScript 
 
@@ -225,6 +257,7 @@
 
 ## HTML 
 
+- [dotnetcore.github.io](https://github.com/dotnetcore/dotnetcore.github.io) - dot net core document chinese translation
 - [licenses](https://github.com/phodal/licenses) - OpenSource License Explains
 - [articles](https://github.com/phodal/articles) - Article Publish in Wechat & Toutiao
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
@@ -234,25 +267,23 @@
 - [cyclejs.cn](https://github.com/CyclejsCN/cyclejs.cn) - The Cycle.js Chinese documentation website.
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components
-- [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
-- [pure](https://github.com/yahoo/pure) - A set of small, responsive CSS modules that you can use in every web project.
-- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
-- [angular2-demo](https://github.com/angularLovers/angular2-demo) - angular2 study project(angular2+webpack+sass+bootstrap),if you feel if helpful,you could star and fork!!
+- [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+- [angular2-demo](https://github.com/AngularLovers/angular2-demo) - angular2 study project(angular2+webpack+sass+bootstrap),if you feel if helpful,you could star and fork!!
 - [angular-notify](https://github.com/cgross/angular-notify) - Minimalistic and extensible notification service for Angular.
-- [awesome-angular](https://github.com/AngularClass/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @AngularClass a @OneSpeed-io company
+- [awesome-angular](https://github.com/gdi2290/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources by @TipeIO
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [electron-api-demos](https://github.com/electron/electron-api-demos) - Explore the Electron APIs
 - [css3-github-buttons](https://github.com/necolas/css3-github-buttons) - Helps you easily create GitHub-style buttons and toolbars using links, buttons, and inputs.
 - [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 - [repractise](https://github.com/phodal/repractise) - RePractise
-- [github-roam](https://github.com/phodal/github-roam) - GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
+- [github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 - [weui](https://github.com/logoove/weui) - weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 - [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [simple-html-invoice-template](https://github.com/sparksuite/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
-- [fileicon.css](https://github.com/picturepan2/fileicon.css) - Fileicon.css - The customizable pure CSS file icons
 - [http-api-design-ZH_CN](https://github.com/cocoajin/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
 - [blog](https://github.com/atian25/blog) - 天猪部落阁  http://atian25.github.io
@@ -263,7 +294,6 @@
 - [Markdown-Syntax-CN](https://github.com/riku/Markdown-Syntax-CN) - Markdown 语法简体中文版（fork 于繁体中文版 http://markdown.tw/ ）
 - [zhubangbang-javascript-notes](https://github.com/zhubangbang/zhubangbang-javascript-notes) - 朱邦邦的JavaScript学习笔记；JavaScript学习总结；前端变化太快，只有把JS基础打扎实了，才能游刃有余；为了让我的JavaScript基础异常牢固，思路更加清晰，我会把以前总结过的知识和平时看到的资料放在这里，把以前零零散散的知识点全部串起来！这个项目也许写到最后会是一个非常不错的JavaScript教程，希望可以帮到更多的人；收藏请点star；如果发现我有写错误的，欢迎随时帮我改正，或者增加新的观点，谢谢！
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA262
 - [compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
 - [7-days-nodejs](https://github.com/nqdeng/7-days-nodejs) - 七天学会NodeJS
@@ -272,35 +302,41 @@
 
 ## Java 
 
+- [mxxy](https://github.com/zhouaobo/mxxy) - javaSwingGame 模仿梦幻西游RPG
+- [javaxyq](https://github.com/kylixs/javaxyq) - Pure java 2D turn-based RPG
+- [cometd](https://github.com/cometd/cometd) - The CometD project, a scalable comet (server push) implementation for web messaging.
 - [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions
+- [incubator-weex](https://github.com/apache/incubator-weex) - Mirror of Apache Weex
 - [H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-- [create-spring-boot-app](https://github.com/wxyyxc1992/create-spring-boot-app) - Spring Boot 项目模板：Gradle / Maven / Weixin
-- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating)
+- [Backend-Boilerplate](https://github.com/wxyyxc1992/Backend-Boilerplate) - Boilerplate for Your Server Side(Backend) Application, Spring Boot | Node.js | Go | Wexin 💫 服务端项目模板
+- [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
-- [Kundera](https://github.com/impetus-opensource/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
+- [Kundera](https://github.com/Impetus/Kundera) - A JPA 2.1 compliant Polyglot Object-Datastore Mapping Library for NoSQL Datastores.Please subscribe to:
 - [sqlbuilder](https://github.com/jahlborn/sqlbuilder) - Mirror of the SqlBuilder project: http://openhms.sourceforge.net/sqlbuilder/
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
 - [Android_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 - [android-async-http](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library for Android
-- [guava](https://github.com/google/guava) - Google Core Libraries for Java
+- [guava](https://github.com/google/guava) - Google core libraries for Java
 
 ## JavaScript 
 
+- [front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
+- [immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one
+- [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 - [debounce-throttle](https://github.com/dcorb/debounce-throttle) - Debounce & Throtte JavaScript demo
-- [hanzichi.github.io](https://github.com/hanzichi/hanzichi.github.io) - :fire: All my demos here
+- [hanzichi.github.io](https://github.com/hanzichi/hanzichi.github.io) - :fire: All my demos that can be viewed on the page
 - [underscore-analysis](https://github.com/hanzichi/underscore-analysis) - Underscore.js 源码解读 & 系列文章（完 :heavy_exclamation_mark:）
 - [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
-- [react-admin](https://github.com/yezihaohao/react-admin) - react-admin system solution : react 后台管理系统解决方案
+- [react-admin](https://github.com/yezihaohao/react-admin) - :sparkles: react-admin system solution : react 后台管理系统解决方案
 - [JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
-- [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: source code bundle of JavaScript algorithms and data structures book
-- [itsy-bitsy-data-structures](https://github.com/thejameskyle/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
+- [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
-- [incubator-weex](https://github.com/apache/incubator-weex) - Mirror of Apache Weex
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-- [shields](https://github.com/badges/shields) - Shields badge specification, website and default API server
+- [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [ypromise](https://github.com/yahoo/ypromise) - An ES6 Promise polyfill
 - [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
 - [bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
@@ -327,13 +363,13 @@
 - [flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client for the browser and node.js
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [quasar-cli](https://github.com/quasarframework/quasar-cli) - Quasar Framework - CLI
-- [Web-Development-And-Engineering-Practices](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices) - 我的前端之路：Web 开发基础与工程实践
 - [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
 - [art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
@@ -347,8 +383,8 @@
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
-- [angular-websocket](https://github.com/AngularClass/angular-websocket) - :arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass
-- [angular-starter](https://github.com/AngularClass/angular-starter) - :tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass  a @OneSpeed-io company
+- [angular-websocket](https://github.com/gdi2290/angular-websocket) - :arrow_upper_left: The missing Angular WebSocket module for connecting client applications to servers by @AngularClass
+- [angular-starter](https://github.com/gdi2290/angular-starter) - :tada: An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @TipeIO
 - [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 - [angular](https://github.com/OOP-Code-Bunny/angular) - 所有angular学习过程中的代码
 - [es6-promise](https://github.com/stefanpenner/es6-promise) - A polyfill for ES6-style Promises
@@ -357,10 +393,10 @@
 - [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - Modular Lodash builds without the hassle.
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [cooking](https://github.com/ElemeFE/cooking) - 👨‍🍳 更易上手的前端构建工具
-- [html-loader](https://github.com/webpack-contrib/html-loader) - html loader module for webpack
+- [html-loader](https://github.com/webpack-contrib/html-loader) - HTML Loader
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [node-http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured http proxy for node.js
-- [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
+- [RAP](https://github.com/thx/RAP) - Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！RAP2已发布请移步至https://github.com/thx/rap2-delos
 - [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
@@ -374,14 +410,13 @@
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - zhihu daily spa with vue  线上演示在这里 ----&gt;
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [codemirror-spell-checker](https://github.com/sparksuite/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
 - [weibo_comment](https://github.com/shanelau/weibo_comment) - 新浪微博的评论数据抓取和分析
 - [zhihu](https://github.com/shanelau/zhihu) - 知乎数据API 接口，用户信息、专栏文章信息、答题信息等等
 - [vue-zhihu](https://github.com/ddqre12345/vue-zhihu) - 知乎专栏
-- [tippyjs](https://github.com/atomiks/tippyjs) - A lightweight, pure JS tooltip library
+- [tippyjs](https://github.com/atomiks/tippyjs) - Highly customizable vanilla JS tooltip/popover library
 - [ueditor](https://github.com/netpi/ueditor) - :pencil: UEditor 官方支持的版本有PHP JSP ASP .NET.  ueditor for nodejs 可以让你的UEditor支持node.js
 - [ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -396,6 +431,7 @@
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [eris](https://github.com/liriliri/eris) - Eustia modules
+- [code.mil](https://github.com/deptofdefense/code.mil) - An experiment in open source
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -409,28 +445,29 @@
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [webpack-doc](https://github.com/liunian/webpack-doc) - 个人业余 webpack 1.x 文档翻译（非官方）（未完成）
 - [blog-by-nodejs](https://github.com/chickencyj/blog-by-nodejs) - NodeJs + Mongoose + Express + jQuery + BootStrap + Ejs + Webpack搭建多人博客
+- [vue.js-starter-template](https://github.com/villeristi/vue.js-starter-template) - A starter template for Vue.js projects
 - [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
 - [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [webpack-handbook](https://github.com/zhaoda/webpack-handbook) - Webpack中文指南
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [N-blog](https://github.com/nswbmw/N-blog) - 一起学 Node.js
+- [N-blog](https://github.com/nswbmw/N-blog) - 《一起学 Node.js》
 - [webpack](https://github.com/94dreamer/webpack) - 简单易懂的webpack入门教程
 - [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
-- [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
-- [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
+- [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
+- [vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue.js.
 - [gulp](https://github.com/gulpjs/gulp) - The streaming build system
 - [download-git-repo](https://github.com/flipxfx/download-git-repo) - Download and extract a git repository (GitHub, GitLab, Bitbucket) from node.
-- [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
+- [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ CLI for rapid Vue.js development
 - [stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
-- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains
+- [hotel](https://github.com/typicode/hotel) - :love_hotel: A simple process manager for developers. Start apps from your browser and access them using local domains
 - [vue-leancloud-blog](https://github.com/jiangjiu/vue-leancloud-blog) - Vue.js+Vuex+vue-router 我的单页应用博客
-- [vuejs.org](https://github.com/vuejs/vuejs.org) - The website.
+- [vuejs.org](https://github.com/vuejs/vuejs.org) - 📄 The official documentation site for Vue.js.
 - [seajs](https://github.com/seajs/seajs) - A Module Loader for the Web
 - [link](https://github.com/leonwgc/link) - a tiny MVVM lib on the web
 - [angularjs-pagination](https://github.com/leonwgc/angularjs-pagination) - angularjs pagination plugin
-- [example-vue2](https://github.com/dingyiming/example-vue2) - vue2 webpack2
-- [vue2-example](https://github.com/Jinkeycode/vue2-example) - An example of vue2 + vue-router2 + vue-resource1.0.3
+- [vue-starter](https://github.com/dingyiming/vue-starter) - vue2 webpack2
+- [vue2-example](https://github.com/showonne/vue2-example) - An example of vue2 + vue-router2 + vue-resource1.0.3
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [node-smb-server](https://github.com/adobe/node-smb-server) - A 100% JavaScript implementation of the SMB file sharing protocol.
@@ -439,12 +476,11 @@
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [goh5](https://github.com/luoye-fe/goh5) - visual h5 edit
-- [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [Coder-Knowledge-Management](https://github.com/wxyyxc1992/Coder-Knowledge-Management) - 程序员的知识管理：技术视野、知识管理与职业规划
+- [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) - :books: Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [EChartsSDK](https://github.com/idoku/EChartsSDK) - ECharts的.NET类库,从ECharts的Java类库移植.
 - [es](https://github.com/zhangkaitao/es) - JavaEE项目开发脚手架
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese) - Android官方培训课程中文版
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -464,6 +500,7 @@
 
 ## Others 
 
+- [docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [Developing-iOS-10-Apps-with-Swift](https://github.com/ApolloZhu/Developing-iOS-10-Apps-with-Swift) - Stanford 公开课，Developing iOS 10 Apps with Swift 字幕翻译
 - [awesome-hardware-cheatsheet](https://github.com/phodal/awesome-hardware-cheatsheet) - Awesome Hardware Development CheatSheet
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
@@ -473,13 +510,14 @@
 - [awesome-answers](https://github.com/cyberglot/awesome-answers) - Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 - [the-front-end-knowledge-you-may-dont-know](https://github.com/justjavac/the-front-end-knowledge-you-may-dont-know) - :innocent: 你可能不知道的前端知识点
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
+- [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that could go in the &lt;head&gt; of your document
+- [HEAD](https://github.com/joshbuchea/HEAD) - A list of everything that *could* go in the head of your document
+- [Web-Series](https://github.com/wxyyxc1992/Web-Series) - :books: 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 - [angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - [Deprecated] Community-driven set of best practices and style guidelines for Angular 2 application development
 - [Front--end--tutorial](https://github.com/MoonYaph/Front--end--tutorial) - 前端知识
 - [webQd](https://github.com/wangwenjie1314/webQd) - web前端相关的知识点
-- [Front--end--stack](https://github.com/Aierui/Front--end--stack) - 🥙🥙🥙「前端知识框架」  --  较全的前端知识
+- [Front--end--stack](https://github.com/aierui/Front--end--stack) - 🥙🥙🥙「前端知识框架」  --  较全的前端知识
 - [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
 - [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
 - [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
@@ -491,24 +529,22 @@
 - [Localization](https://github.com/Microsoft/Localization) - Community Localization for Cloud and Enterprise
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
-- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
-- [xaml-standard](https://github.com/Microsoft/xaml-standard) - Vocabulary specification for the XAML Standard, a unified markup dialect for defining user interface elements and their behavior.
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [xaml-standard](https://github.com/Microsoft/xaml-standard) - XAML Standard : a set of principles that drive XAML dialect alignment
 - [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 - [node-interview-questions](https://github.com/shanelau/node-interview-questions) - nodejs 面试题精选、笔试题
 - [styleguide](https://github.com/fex-team/styleguide) - 文档与源码编写风格
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
-- [think-in-java](https://github.com/quanke/think-in-java) - 
+- [think-in-java](https://github.com/quanke/think-in-java) - Thinking in Java (Java 编程思想)
 - [node-style-guide](https://github.com/wwsun/node-style-guide) - node.js style guide for node programmers
-- [babel-handbook](https://github.com/thejameskyle/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
+- [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [FrontEnd-Wikis](https://github.com/maidishike/FrontEnd-Wikis) - Front-End Wikis ,Learning JavaScript、Vue.js、Node.js 、other information ect
 - [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [sql-server-samples](https://github.com/Microsoft/sql-server-samples) - Official Microsoft GitHub Repository containing code samples for SQL Server
-- [code.mil](https://github.com/deptofdefense/code.mil) - An experiment in open source
 - [programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -519,7 +555,7 @@
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [Good-Text-Share](https://github.com/Wscats/Good-Text-Share) - :smiley_cat:《前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-- [awesome-css](https://github.com/sotayamashita/awesome-css) - :thumbsup: Awesome - A curated contents of amazing CSS Ever :)
+- [awesome-css](https://github.com/sotayamashita/awesome-css) - :art: A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
@@ -527,21 +563,21 @@
 - [frontend-interview](https://github.com/jirengu/frontend-interview) - 前端笔试面试题题库
 - [FE-interview](https://github.com/qiu-deqing/FE-interview) - 收集的前端面试题和答案
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
-- [gold-miner](https://github.com/xitu/gold-miner) - 掘金翻译计划，翻译掘金上优质的英文文章
+- [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [project-panthera](https://github.com/intel-hadoop/project-panthera) - Project Panthera is our open source efforts to enable efficient support of standard SQL features for advacned analytics on Hadoop
 - [SqlSugarSnippets](https://github.com/sunkaixuan/SqlSugarSnippets) - 
-- [awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [Internet-companies-of-China](https://github.com/maguowei/Internet-companies-of-China) - More than 80,000 Chinese Internet company's information.
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+- [commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
 - [langdata](https://github.com/tesseract-ocr/langdata) - Source training data for Tesseract for lots of languages
 - [net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
-- [RocketMQ](https://github.com/alibaba/RocketMQ) - Apache Incubator RocketMQ
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) - DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [of-release](https://github.com/open-falcon-archive/of-release) - falcon-plus
 - [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) - stackoverflow上Python相关回答整理翻译
-- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects 微信公众号: codekk
+- [android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [openstack](https://github.com/openstack/openstack) - Repository containing OpenStack repositories
 - [nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) - :notebook:Node.js API doc in Chinese
@@ -560,20 +596,20 @@
 
 ## PowerShell 
 
-- [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [psake](https://github.com/psake/psake) - A build automation tool... now with less XML...
 - [unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 
 ## Python 
 
-- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [algorithm-exercise](https://github.com/billryan/algorithm-exercise) - Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/
-- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法》的笔记，文档翻译，解答和代码
+- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 计算机网络－自顶向下方法(原书第6版)》编程作业的解答，Wireshark实验官方文档的翻译。
 - [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [Get-Meizi](https://github.com/RanFeng/Get-Meizi) - My Python Programs
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
-- [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili用户爬虫
+- [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -582,13 +618,14 @@
 
 ## Rascal 
 
-- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
+- [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Ruby 
 
 - [progit2-gitbook](https://github.com/bingohuang/progit2-gitbook) - Pro Gi­t 第二版 ­简体中文
 - [mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
-- [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - See 2nd edition at progit2
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 
@@ -607,6 +644,7 @@
 ## TypeScript 
 
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
+- [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [vscode-node-debug2](https://github.com/Microsoft/vscode-node-debug2) - A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol.
 - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
@@ -614,11 +652,11 @@
 - [switching-to-angular2](https://github.com/mgechev/switching-to-angular2) - 
 - [tslint](https://github.com/palantir/tslint) - :vertical_traffic_light: An extensible linter for the TypeScript language
 - [material2](https://github.com/angular/material2) - Material Design components for Angular
-- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Nebular framework (Angular 4+, Bootstrap 4) previously known as ng2-admin
-- [Angular2](https://github.com/angularLovers/Angular2) - v2.4.10 官方教程配套(angular)源码(ng-book2)同步更新：ng-book2 source code (keywords:angular angular2 )
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based on Angular 5+, Bootstrap 4 (previously known as ng2-admin)
+- [Angular2](https://github.com/xiaomoinfo/Angular2) - v2.4.10 官方教程配套(angular)源码(ng-book2)同步更新：ng-book2 source code (keywords:angular angular2 )
 - [vue-typescript-example](https://github.com/kaorun343/vue-typescript-example) - For Vue 1.0 and TS 1.8, not for Vue 2.0 and TS 2.0
 - [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
-- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.
+- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 issue 中查看！
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript使用手册。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org
@@ -634,9 +672,9 @@
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 - [vue-music-player](https://github.com/microzz/vue-music-player) - 🎵Vue.js写一个音乐播放器+📖One(一个).A music player + One by Vue.js
-- [vue-simplemde](https://github.com/F-loat/vue-simplemde) - Vue-SimpleMDE - Markdown Editor component for Vue.js
+- [vue-simplemde](https://github.com/F-loat/vue-simplemde) - Vue-SimpleMDE - use simplemde with vue.js
 - [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp) - This is a vue for NeteaseCloud projects!
-- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3
 - [tomato5](https://github.com/zhangxin840/tomato5) - Tomato5 is a real-time collaboration tool.
 
