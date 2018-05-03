@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [snoopwpf](https://github.com/cplotts/snoopwpf) - Snoop - The WPF Spy Utility (http://www.cplotts.com/2017/10/27/snoop-2-8-0-download/)
 - [wpf.controls](https://github.com/kwonganding/wpf.controls) - 在学习中和使用WPF中，学习、借鉴了很多网友的文章和开源的项目的知识。发现提供实际项目开发需要的基础控件、样式的文章大都比较散，不成系列。因此基于现在项目中使用开发了一个wpf基础UI库，并写了这个系列入门文章（http://www.cnblogs.com/anding/p/5018363.html），希望对有需要的人有所帮助。
 - [mvvmlight](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone.
 - [gremit](https://github.com/skbkontur/gremit) - .NET Reflection.Emit extensions
@@ -77,9 +78,9 @@
 - [EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
 - [surging](https://github.com/dotnetcore/surging) - surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询、压力最小优先作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
 - [CAP](https://github.com/dotnetcore/CAP) - CAP is a library based on .Net standard, which is a solution to deal with distributed transactions, also has the function of EventBus, it is lightweight, easy to use, and efficiently.
-- [Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core) - 支付宝（Alipay）服务端SDK AopSdk，修改自官方最新版本：113。采用.NET Standard 2.0，支持.NET Core 2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。不仅仅支持支付，官方SDK支持的功能本SDK全部支持用法几乎一样。
+- [Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core) - 支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core 2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，且用法几乎一样，代码都可参考官方文档代码。
 - [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET
-- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - ⚡️一个基于 .NET Core 2.0 开发的简单易用的快速开发框架，遵循领域驱动设计规范约束，并结合CQRS架构提供实现事件驱动、事件回溯、响应式等特性的基础设施。让开发者享受到正真意义的面向对象设计模式来带的美感。
+- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - 【WIP】⚡️一个基于 .NET Core 2.0 开发的简单易用的快速开发框架，遵循领域驱动设计规范约束，并结合CQRS架构提供实现事件驱动、事件回溯、响应式等特性的基础设施。让开发者享受到正真意义的面向对象设计模式来带的美感。
 - [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 - [LearnMono](https://github.com/yanghanggit/LearnMono) - 
 - [C.math.NET](https://github.com/MachineCognitis/C.math.NET) - Implements several C Standard mathematical functions (frexp, logb, ldexp, nextafter, etc.) that are missing from the .NET Framework
@@ -173,7 +174,7 @@
 - [CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [System.Linq.Dynamic](https://github.com/kahanu/System.Linq.Dynamic) - This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
-- [Titanium-Web-Proxy](https://github.com/justcoding121/Titanium-Web-Proxy) - A cross platform, low memory foot-printed and high performant http(s) proxy server in C#
+- [Titanium-Web-Proxy](https://github.com/justcoding121/Titanium-Web-Proxy) - A cross platform, asynchronous and high performant http(s) proxy server in C#
 - [we-text](https://github.com/daxnet/we-text) - WeText is a sample application that demonstrates the implementation of DDD/CQRS and microservice architectural patterns in C#.
 - [Apworks](https://github.com/daxnet/Apworks) - Apworks is a flexible, scalable, configurable and efficient .NET based application development framework that helps software developers to easily build enterprise applications by applying either Classic Layering or Command-Query Responsibility Segregation (CQRS) architectural patterns.
 - [equeue](https://github.com/tangxuehua/equeue) - a distributed mq written by c#.
@@ -200,7 +201,7 @@
 - [corefx](https://github.com/dotnet/corefx) - This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.
 - [sharpcompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
 - [Mvc](https://github.com/aspnet/Mvc) - ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
-- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms.
+- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#.
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
 - [google-api-dotnet-client](https://github.com/google/google-api-dotnet-client) - Google APIs Client Library for .NET
 - [nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
@@ -253,7 +254,7 @@
 - [front-end-handbook](https://github.com/dwqs/front-end-handbook) - Front-end Developer HandBook. Read online: https://dwqs.gitbooks.io/frontenddevhandbook/content/
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - a Lightweight, Responsive and Modern CSS Framework
+- [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -272,6 +273,7 @@
 
 ## Go 
 
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [flynn](https://github.com/flynn/flynn) - A next generation open source platform as a service (PaaS)
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -283,6 +285,7 @@
 
 ## HTML 
 
+- [Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [dotnetcore.github.io](https://github.com/dotnetcore/dotnetcore.github.io) - dot net core document chinese translation
 - [licenses](https://github.com/phodal/licenses) - OpenSource License Explains
 - [articles](https://github.com/phodal/articles) - Article Publish in Wechat & Toutiao
@@ -294,6 +297,7 @@
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [polymer](https://github.com/Polymer/polymer) - Build modern apps using web components
 - [pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [angular2-demo](https://github.com/AngularLovers/angular2-demo) - angular2 study project(angular2+webpack+sass+bootstrap),if you feel if helpful,you could star and fork!!
 - [angular-notify](https://github.com/cgross/angular-notify) - Minimalistic and extensible notification service for Angular.
@@ -398,7 +402,6 @@
 - [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
-- [foundation-sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [quasar-cli](https://github.com/quasarframework/quasar-cli) - Quasar Framework - CLI
 - [javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
@@ -456,19 +459,19 @@
 - [browserify-handbook](https://github.com/browserify/browserify-handbook) - how to build modular applications with browserify
 - [wechat](https://github.com/node-webot/wechat) - 微信公共平台消息接口服务中间件
 - [wechat-api](https://github.com/node-webot/wechat-api) - Wechat API / 主动调用 API
-- [egg](https://github.com/eggjs/egg) - Born to build better enterprise frameworks and apps with Node.js & Koa
+- [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [node-biginteger](https://github.com/node-modules/node-biginteger) - node.js version of java.math.BigInteger
 - [node-rsa](https://github.com/rzcoder/node-rsa) - Node.js RSA library
 - [node-api-cn](https://github.com/nodejscn/node-api-cn) - Node.js API 中文文档
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [eris](https://github.com/liriliri/eris) - Eustia modules
+- [licia](https://github.com/liriliri/licia) - Eustia modules
 - [code.mil](https://github.com/Code-dot-mil/code.mil) - An experiment in open source
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
-- [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer) - Algorithm Visualizer
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Algorithm Visualizer
 - [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
@@ -536,8 +539,7 @@
 
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
-- [docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Developing-iOS-10-Apps-with-Swift](https://github.com/ApolloZhu/Developing-iOS-10-Apps-with-Swift) - Stanford 公开课，Developing iOS 10 Apps with Swift 字幕翻译
 - [awesome-hardware-cheatsheet](https://github.com/phodal/awesome-hardware-cheatsheet) - Awesome Hardware Development CheatSheet
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
@@ -592,7 +594,7 @@
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [Good-Text-Share](https://github.com/Wscats/Good-Text-Share) - :smiley_cat:《前端回忆录》These share data are from my usual work and learning，hoping to help you，If you like you can star
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
-- [awesome-css](https://github.com/sotayamashita/awesome-css) - :art: A curated contents of amazing CSS Ever :)
+- [awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS Ever :)
 - [blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - :books: 计算机开放电子书（不完全）汇总
 - [Gitbook](https://github.com/dodola/Gitbook) - 收录找到的不错的文档
@@ -634,6 +636,7 @@
 
 ## PowerShell 
 
+- [docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [psake](https://github.com/psake/psake) - A build automation tool... now with less XML...
 - [unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 
@@ -683,6 +686,8 @@
 
 ## TypeScript 
 
+- [nebular](https://github.com/akveo/nebular) - Nebular is a set of essential modules for your next Angular 5 application.
+- [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
@@ -703,7 +708,7 @@
 
 ## Vim script 
 
-- [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - :paperclip: A chinese version of vim-galore
+- [vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim galore 中文翻译，构建 Vim 知识体系
 
 ## Vue 
 
