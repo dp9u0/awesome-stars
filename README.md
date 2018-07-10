@@ -60,6 +60,8 @@
 
 ## C# # 
 
+- [Scientist.net](https://github.com/github/Scientist.net) - A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library
+- [gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
 - [MemoScope.Net](https://github.com/fremag/MemoScope.Net) - Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd )
 - [console](https://github.com/Microsoft/console) - Windows Console Tools
 - [mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
@@ -82,11 +84,11 @@
 - [Natasha](https://github.com/dotnetcore/Natasha) - 简化IL操作，优化IL编程流程，编写提供高性能的动态缓存，像写普通代码一样去写IL代码。
 - [Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
 - [EasyCaching](https://github.com/dotnetcore/EasyCaching) - :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier!
-- [surging](https://github.com/dotnetcore/surging) - surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询、压力最小优先作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
+- [surging](https://github.com/dotnetcore/surging) - surging 是一个分布式微服务框架,提供高性能RPC远程服务调用，服务引擎支持http、TCP协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希，随机，轮询、压力最小优先作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
 - [CAP](https://github.com/dotnetcore/CAP) - CAP is a library based on .Net standard, which is a solution to deal with distributed transactions, also has the function of EventBus, it is lightweight, easy to use, and efficiently.
 - [Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core) - 支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core &gt;=2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。
 - [DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET
-- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - 【WIP】⚡️一个基于 .NET Core 2.0 开发的简单易用的快速开发框架，遵循领域驱动设计（DDD）规范约束，并结合CQRS架构提供实现事件驱动、事件回溯、响应式等特性的基础设施。让开发者享受到正真意义的面向对象设计模式来带的美感。
+- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - 【WIP】️一个基于 .NET Core 2.0 开发的简单易用的快速开发框架，遵循领域驱动设计（DDD）规范约束，并结合CQRS架构提供实现事件驱动、事件回溯、响应式等特性的基础设施。让开发者享受到正真意义的面向对象设计模式来带的美感。
 - [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 - [LearnMono](https://github.com/yanghanggit/LearnMono) - 
 - [C.math.NET](https://github.com/MachineCognitis/C.math.NET) - Implements several C Standard mathematical functions (frexp, logb, ldexp, nextafter, etc.) that are missing from the .NET Framework
@@ -146,7 +148,7 @@
 - [cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 - [CronExpression.NET](https://github.com/windeagle/CronExpression.NET) - A CronExpression parser written in C#
 - [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET
-- [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A toolkit for creating Metro / Modern UI styled WPF apps.
+- [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a Metro or Modern UI for their own WPF applications with minimal effort.
 - [libgit2sharp](https://github.com/libgit2/libgit2sharp) - Git + .NET/Mono = ❤
 - [PowerArgs](https://github.com/adamabdelhamed/PowerArgs) - The ultimate .NET Standard command line argument parser
 - [fluent-command-line-parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface
@@ -264,8 +266,6 @@
 - [spectre](https://github.com/picturepan2/spectre) - Spectre.css - A Lightweight, Responsive and Modern CSS Framework
 - [hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 - [hexo-theme-adoubi](https://github.com/shinux/hexo-theme-adoubi) - yet another hexo theme
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## CoffeeScript 
 
@@ -292,6 +292,7 @@
 
 ## HTML 
 
+- [monitor-mgmt](https://github.com/plutogeek/monitor-mgmt) - 面向开发者的监控管理平台
 - [Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning) - :zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 - [dotnetcore.github.io](https://github.com/dotnetcore/dotnetcore.github.io) - dot net core document chinese translation
 - [licenses](https://github.com/phodal/licenses) - OpenSource License Explains
@@ -361,6 +362,9 @@
 
 ## JavaScript 
 
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
+- [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - vue2 + vue-router + vuex  入门项目
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
 - [phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
@@ -444,14 +448,15 @@
 - [javascript-guessing-game](https://github.com/samiheikki/javascript-guessing-game) - You know there are too many JavaScript libraries when there is a game for it 🎯
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
 - [jsonon](https://github.com/awesomes-cn/jsonon) - A json online view
+- [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
-- [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
 - [vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily) - zhihu daily spa with vue  线上演示在这里 ----&gt;
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [codemirror-spell-checker](https://github.com/sparksuite/codemirror-spell-checker) - Dead-simple spell checking in CodeMirror
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [weixin-signature](https://github.com/shanelau/weixin-signature) - 微信获取签名，本地缓存签名
@@ -473,7 +478,7 @@
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [licia](https://github.com/liriliri/licia) - Useful utility collection with zero dependencies
-- [code.mil](https://github.com/Code-dot-mil/code.mil) - An experiment in open source
+- [code.mil](https://github.com/Code-dot-mil/code.mil) - An experiment in open source at the Department of Defense.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
@@ -513,6 +518,7 @@
 - [select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [node-smb-server](https://github.com/adobe/node-smb-server) - A 100% JavaScript implementation of the SMB file sharing protocol.
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [babel](https://github.com/babel/babel) - :tropical_fish: Babel is a compiler for writing next generation JavaScript.
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -521,6 +527,7 @@
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [EChartsSDK](https://github.com/idoku/EChartsSDK) - ECharts的.NET类库,从ECharts的Java类库移植.
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [android-training-course-in-chinese](https://github.com/kesenhoo/android-training-course-in-chinese) - Android官方培训课程中文版
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -544,10 +551,12 @@
 
 ## Objective-C 
 
-- [iOSProject](https://github.com/NJHu/iOSProject) - oc综合项目,ios综合项目,iosdemo,ocdemo,demo,iosproject,百思不得姐,新浪微博,sina,QQ音乐,QQMusic,music,视频列表,滚动播放,拖拽播放,离线下载,即时通讯,打印 ios 日志,省市区三级联动,没有导航栏,自定义导航栏,字体适配屏幕,空白页展示,空白页,导航条颜色渐变,导航条高度渐变,YYText 使用,列表的展开和收起,京东首页布局,流水布局,垂直流水布局,水平流水布局,非规则流水布局,键盘处理,文件下载,Masonry 案例,fmdb,数据库,sqlite,百度地图,二维码,照片上传,照片上传有进度,列表倒计时,H5和原生交互,自定义各种弹框,常见表单类型,人脸识别,列表加载图片,列表拖拽,日历操作,导航条渐变,指纹解锁,物理仿真,控制器生命周期,RunTime 的应用,多线程,Protocol 实现,Block 内存释放,自定义启动界面,欢迎界面,欢迎视图,第三方登录,第三方分享
+- [iOSProject](https://github.com/NJHu/iOSProject) - A project of collected some demos for iOS App. oc综合项目,ios综合项目,iosdemo,ocdemo,demo,iosproject
 
 ## Others 
 
+- [Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -569,7 +578,7 @@
 - [webQd](https://github.com/wangwenjie1314/webQd) - web前端相关的知识点
 - [Front--end--stack](https://github.com/aierui/Front--end--stack) - 🥙🥙🥙「前端知识框架」  --  较全的前端知识
 - [FKB](https://github.com/imweb/FKB) - WEB前端知识库，Frontend Knowledge Base
-- [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动Web前端知识库
+- [Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库
 - [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 - [AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning) - A list of resources for learning Angular2
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -579,7 +588,7 @@
 - [Localization](https://github.com/Microsoft/Localization) - Community Localization for Cloud + AI
 - [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [awesome-power-mode](https://github.com/codeinthedark/awesome-power-mode) - Awesome Power Mode
-- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [xaml-standard](https://github.com/Microsoft/xaml-standard) - XAML Standard : a set of principles that drive XAML dialect alignment
 - [awesome-sysadmin-cn](https://github.com/jobbole/awesome-sysadmin-cn) - 系统管理员资源大全中文版，备份/克隆软件、云计算/云存储、协作软件、配置管理、日志管理、监控、项目管理等
 - [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
@@ -665,7 +674,7 @@
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [bilibili-user](https://github.com/airingursb/bilibili-user) - 🍥 Bilibili 用户爬虫
 - [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -678,7 +687,6 @@
 
 - [progit2-gitbook](https://github.com/bingohuang/progit2-gitbook) - Pro Gi­t 第二版 ­简体中文
 - [mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
 - [sass](https://github.com/sass/sass) - Sass makes CSS fun again.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -728,7 +736,7 @@
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 - [vue2-elm](https://github.com/bailicangdu/vue2-elm) - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-- [quasar](https://github.com/quasarframework/quasar) - Quasar Framework
+- [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 - [vue-music-player](https://github.com/microzz/vue-music-player) - 🎵Vue.js写一个音乐播放器+📖One(一个).A music player + One by Vue.js
 - [vue-simplemde](https://github.com/F-loat/vue-simplemde) - 📝Vue-SimpleMDE - use simplemde with vue.js
