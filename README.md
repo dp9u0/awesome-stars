@@ -581,6 +581,8 @@
 
 ## Others 
 
+- [BlogOfComputerNetwork](https://github.com/SeaHub/BlogOfComputerNetwork) - 计算机网络技术共享博客 (A Blog Of ComputerNetwork)
+- [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [Quiver](https://github.com/HappenApps/Quiver) - Quiver documentation and issue tracker
 - [javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
 - [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
