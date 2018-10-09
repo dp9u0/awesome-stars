@@ -31,7 +31,7 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
-  - [Vim script](#vim script)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## Assembly 
@@ -60,6 +60,10 @@
 
 ## C# # 
 
+- [corert](https://github.com/dotnet/corert) - This repo contains CoreRT, a .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain.
+- [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
+- [NPOI](https://github.com/dotnetcore/NPOI) - A .NET library for reading and writing Microsoft Office binary and OOXML file formats.
 - [ZKEACMS.Core](https://github.com/SeriaWei/ZKEACMS.Core) - ZKEACMS for .Net Core (.Net Core CMS)
 - [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - 比较全面的c#帮助类，各种功能性代码。
 - [Scientist.net](https://github.com/github/Scientist.net) - A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library
@@ -212,7 +216,7 @@
 - [corefx](https://github.com/dotnet/corefx) - This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.
 - [sharpcompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a fully managed C# library to deal with many compression types and formats.
 - [Mvc](https://github.com/aspnet/Mvc) - ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
-- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#.
+- [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#
 - [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth protocols
 - [google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client) - Google APIs Client Library for .NET
 - [nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
@@ -352,7 +356,7 @@
 
 ## Java 
 
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - A core knowledge that most Java programmers need to master
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
 - [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
@@ -383,7 +387,7 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [javascript](https://github.com/wchaowu/javascript) - 包含javascript的基础语法，面向对象的实现和设计模式实现
 - [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [next.js](https://github.com/zeit/next.js) - Next.js is a lightweight framework for static and server‑rendered applications.
+- [next.js](https://github.com/zeit/next.js) - The React Framework
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 - [sugar](https://github.com/tangbc/sugar) - A lightweight and powerful JavaScript MVVM library for building easy web UI.
 - [monitor](https://github.com/AsuraTeam/monitor) - The monitoring system, develop their own powerful and flexible configuration
@@ -689,7 +693,7 @@
 - [katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [algorithm-exercise](https://github.com/billryan/algorithm-exercise) - Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/
-- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 计算机网络－自顶向下方法(原书第6版)》编程作业的解答，Wireshark实验官方文档的翻译。
+- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
 - [WebHubBot](https://github.com/xiyouMc/WebHubBot) - Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.
 - [Get-Meizi](https://github.com/RanFeng/Get-Meizi) - My Python Programs
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -708,6 +712,7 @@
 
 ## Ruby 
 
+- [quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [progit2-gitbook](https://github.com/bingohuang/progit2-gitbook) - Pro Gi­t 第二版 ­简体中文
 - [mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
@@ -731,7 +736,7 @@
 
 - [rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) heavily inspired by Angular 😻🚀
-- [nebular](https://github.com/akveo/nebular) - Nebular is a set of essential modules for your next Angular 6 application.
+- [nebular](https://github.com/akveo/nebular) - Angular 6 Components, Auth and Security
 - [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
