@@ -40,6 +40,7 @@
 
 ## C 
 
+- [CSAPP-3e-Solutions](https://github.com/DreamAndDead/CSAPP-3e-Solutions) - CSAPP 3e Solutions gitbook
 - [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [csapp](https://github.com/mofaph/csapp) - Computer Systems: A Programmer's Perspective
