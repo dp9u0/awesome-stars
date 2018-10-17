@@ -164,7 +164,7 @@
 - [RabbitCloud](https://github.com/RabbitTeam/RabbitCloud) - A lightweight cross-platform RPC.
 - [MusicStore](https://github.com/aspnet/MusicStore) - MusicStore test application that uses ASP.NET/EF Core
 - [SocialGoal](https://github.com/MarlabsInc/SocialGoal) - Sample web app for ASP.NET MVC 5, EF 6 Code First, AutoMapper, Autofac and TDD
-- [Common](https://github.com/aspnet/Common) - A repository for shared files to be consumed across the ASPNET repos
+- [Extensions](https://github.com/aspnet/Extensions) - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
 - [KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer) - A cross platform web server for ASP.NET Core.
 - [Routing](https://github.com/aspnet/Routing) - Middleware for routing requests to application logic.
 - [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) - Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
