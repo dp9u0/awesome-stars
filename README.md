@@ -336,7 +336,6 @@
 - [github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.
 - [designiot](https://github.com/phodal/designiot) - 教你设计物联网系统。构建自己的Internet of Things 。
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
-- [weui](https://github.com/logoove/weui) - weui+是在weui0.44基础上,采用zepto作为基础库,兼容weui1.1所有效果,目前分为表单,基础,布局,组件,js函数五大类,共计百余项功能,是最全的weui样式
 - [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere
 - [flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [simple-html-invoice-template](https://github.com/sparksuite/simple-html-invoice-template) - A modern, clean, and very simple responsive HTML invoice template.
@@ -484,6 +483,7 @@
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
+- [weui](https://github.com/logoove/weui) - weui+是在weui1.13基础上,使用zepto1.2作为基础库,目前分为表单,基础,组件,js插件四大类,共计百余项功能,是最全的weui样式
 - [immutable-js](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [daily-zhihu](https://github.com/walleeeee/daily-zhihu) - 基于Vue2.0的知乎日报单页应用
