@@ -65,7 +65,7 @@
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
 - [NPOI](https://github.com/dotnetcore/NPOI) - A .NET library for reading and writing Microsoft Office binary and OOXML file formats.
-- [ZKEACMS.Core](https://github.com/SeriaWei/ZKEACMS.Core) - ZKEACMS for .Net Core (.Net Core CMS)
+- [ZKEACMS.Core](https://github.com/SeriaWei/ZKEACMS.Core) - ZKEACMS for .Net Core (.Net Core CMS)可视化设计在线编辑内容管理系统
 - [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - 比较全面的c#帮助类，各种功能性代码。
 - [Scientist.net](https://github.com/github/Scientist.net) - A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) - Console-based user interface toolkit for .NET applications.
