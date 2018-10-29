@@ -392,7 +392,7 @@
 - [js-xlsx](https://github.com/SheetJS/js-xlsx) - :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 - [sugar](https://github.com/tangbc/sugar) - A lightweight and powerful JavaScript MVVM library for building easy web UI.
 - [monitor](https://github.com/AsuraTeam/monitor) - The monitoring system, develop their own powerful and flexible configuration
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 🤖 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - vue2 + vue-router + vuex  入门项目
 - [carbon](https://github.com/dawnlabs/carbon) - 🎨 Create and share beautiful images of your source code
