@@ -18,6 +18,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Matlab](#matlab)
@@ -566,6 +567,10 @@
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
 
+## Jupyter Notebook 
+
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
+
 ## Kotlin 
 
 - [profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
@@ -694,7 +699,6 @@
 
 ## Python 
 
-- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [plus1s.live](https://github.com/HFO4/plus1s.live) - 🐸ASCII在线视频流搭建脚本
 - [katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
