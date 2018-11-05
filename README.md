@@ -33,6 +33,7 @@
 
 ## Others 
 
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
