@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C#](#c#)
+  - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [Others](#others)
@@ -21,6 +22,10 @@
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 - [Stock](https://github.com/asxinyu/Stock) - 中国2000年以来到2018年2月份的历史数据，包括股票基础信息和每支股票每天的基本交易信息
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
+
+## Go 
+
+- [cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 
 ## HTML 
 
