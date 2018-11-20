@@ -7,11 +7,9 @@
 
   - [C](#c)
   - [C#](#c#)
-  - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
   - [Others](#others)
-  - [Python](#python)
 
 ## C 
 
@@ -20,12 +18,7 @@
 ## C# # 
 
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
-- [Stock](https://github.com/asxinyu/Stock) - 中国2000年以来到2018年2月份的历史数据，包括股票基础信息和每支股票每天的基本交易信息
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
-
-## Go 
-
-- [cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 
 ## HTML 
 
@@ -38,7 +31,6 @@
 
 ## Others 
 
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -51,11 +43,6 @@
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Computer Science Learning Notes
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-- [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
-
-## Python 
-
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 
 ## License
