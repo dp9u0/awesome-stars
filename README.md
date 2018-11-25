@@ -13,7 +13,6 @@
 
 ## C 
 
-- [c4](https://github.com/rswier/c4) - C in four functions
 - [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 ## C# # 
