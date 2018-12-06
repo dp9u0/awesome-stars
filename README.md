@@ -10,6 +10,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [Others](#others)
+  - [Python](#python)
 
 ## C 
 
@@ -17,8 +18,8 @@
 
 ## C# # 
 
-- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
+- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 
 ## HTML 
 
@@ -42,7 +43,10 @@
 - [BlogOfComputerNetwork](https://github.com/SeaHub/BlogOfComputerNetwork) - 计算机网络技术共享博客 (A Blog Of ComputerNetwork)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Computer Science Learning Notes
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
+
+## Python 
+
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 
 ## License
