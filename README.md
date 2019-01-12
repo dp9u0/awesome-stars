@@ -45,7 +45,7 @@
 - [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [BlogOfComputerNetwork](https://github.com/SeaHub/BlogOfComputerNetwork) - 计算机网络技术共享博客 (A Blog Of ComputerNetwork)
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Computer Science Learning Notes
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 面试必备基础知识
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 
 ## Python 
