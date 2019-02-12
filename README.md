@@ -19,6 +19,7 @@
 
 ## C# # 
 
+- [string-theory](https://github.com/drewnoakes/string-theory) - Identify and reduce memory used by duplicate .NET strings
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 
 ## HTML 
