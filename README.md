@@ -36,6 +36,7 @@
 
 ## JavaScript 
 
+- [promise-polyfill](https://github.com/taylorhakes/promise-polyfill) - Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom) - Basic virtual-dom algorithm
 - [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
