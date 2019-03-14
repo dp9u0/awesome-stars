@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C#](#c#)
+  - [C++](#c++)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -24,6 +25,10 @@
 - [coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 
+## C++ 
+
+- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
 ## HTML 
 
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
@@ -31,6 +36,7 @@
 
 ## Java 
 
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现。
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
 ## JavaScript 
