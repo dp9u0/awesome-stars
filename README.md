@@ -14,7 +14,6 @@
   - [Others](#others)
   - [Python](#python)
   - [TypeScript](#typescript)
-  - [Vue](#vue)
 
 ## C 
 
@@ -22,6 +21,7 @@
 
 ## C# # 
 
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
 - [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [corefx](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
@@ -51,6 +51,7 @@
 
 ## Others 
 
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -71,10 +72,6 @@
 ## TypeScript 
 
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
-
-## Vue 
-
-- [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue.js admin dashboard
 
 
 ## License
