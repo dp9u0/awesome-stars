@@ -13,8 +13,8 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Others](#others)
+  - [PowerShell](#powershell)
   - [Python](#python)
-  - [TypeScript](#typescript)
   - [Vue](#vue)
 
 ## C 
@@ -53,6 +53,7 @@
 
 - [minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
 - [mp-jishengji](https://github.com/seymoe/mp-jishengji) - 一款日常生活记录类的小程序，通过wepyjs构建,包含计划、账本、圈子、榜单和个人中心等模块。
+- [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 - [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom) - Basic virtual-dom algorithm
@@ -74,13 +75,14 @@
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 
+## PowerShell 
+
+- [Docs.zh-cn](https://github.com/aspnet/Docs.zh-cn) - Documentation for ASP.NET Core (zh-cn)
+- [EntityFramework.Docs.zh-cn](https://github.com/aspnet/EntityFramework.Docs.zh-cn) - Documentation for Entity Framework
+
 ## Python 
 
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-
-## TypeScript 
-
-- [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 
 ## Vue 
 
