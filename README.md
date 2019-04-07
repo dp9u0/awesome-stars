@@ -86,6 +86,7 @@
 
 ## Vue 
 
+- [mpvue-weui](https://github.com/KuangPF/mpvue-weui) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
