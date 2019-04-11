@@ -51,6 +51,7 @@
 
 ## JavaScript 
 
+- [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
 - [mp-jishengji](https://github.com/seymoe/mp-jishengji) - 一款日常生活记录类的小程序，通过wepyjs构建,包含计划、账本、圈子、榜单和个人中心等模块。
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
