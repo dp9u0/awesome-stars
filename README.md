@@ -5,10 +5,8 @@
 
 ## Contents
 
-  - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
-  - [CSS](#css)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -16,10 +14,6 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Vue](#vue)
-
-## C 
-
-- [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
 ## C# # 
 
@@ -34,15 +28,9 @@
 
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 
-## CSS 
-
-- [iview-mpvue](https://github.com/iview/iview-mpvue) - 一套高质量的微信小程序 UI 组件库
-- [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
-
 ## HTML 
 
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
-- [fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 
 ## Java 
 
@@ -52,17 +40,10 @@
 ## JavaScript 
 
 - [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
-- [minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
-- [mp-jishengji](https://github.com/seymoe/mp-jishengji) - 一款日常生活记录类的小程序，通过wepyjs构建,包含计划、账本、圈子、榜单和个人中心等模块。
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
-- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
-- [wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
-- [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom) - Basic virtual-dom algorithm
-- [leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
 
 ## Others 
 
-- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -71,7 +52,6 @@
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
-- [awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books:  技术面试必备基础知识
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -88,7 +68,6 @@
 ## Vue 
 
 - [mpvue-weui](https://github.com/KuangPF/mpvue-weui) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
-- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
 
