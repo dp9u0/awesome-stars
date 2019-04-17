@@ -70,6 +70,7 @@
 
 ## Vue 
 
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [mpvue-weui](https://github.com/KuangPF/mpvue-weui) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
