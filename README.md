@@ -35,6 +35,7 @@
 
 ## Java 
 
+- [incubator-dubbo](https://github.com/apache/incubator-dubbo) - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
