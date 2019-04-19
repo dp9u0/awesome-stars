@@ -17,6 +17,8 @@
 
 ## C# # 
 
+- [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+- [reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [clrmd](https://github.com/Microsoft/clrmd) - Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
 - [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
@@ -35,14 +37,13 @@
 
 ## Java 
 
+- [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
 - [incubator-dubbo](https://github.com/apache/incubator-dubbo) - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
 ## JavaScript 
 
-- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
-- [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 
@@ -71,8 +72,6 @@
 
 ## Vue 
 
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [mpvue-weui](https://github.com/KuangPF/mpvue-weui) - 用 vue 写小程序，基于 mpvue 框架重写 weui。
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
 
