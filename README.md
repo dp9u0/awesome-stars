@@ -64,7 +64,7 @@
 
 ## PowerShell 
 
-- [Docs.zh-cn](https://github.com/aspnet/Docs.zh-cn) - Documentation for ASP.NET Core (zh-cn)
+- [AspNetCore.Docs.zh-cn](https://github.com/aspnet/AspNetCore.Docs.zh-cn) - 
 - [EntityFramework.Docs.zh-cn](https://github.com/aspnet/EntityFramework.Docs.zh-cn) - Documentation for Entity Framework
 
 ## Python 
