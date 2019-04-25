@@ -14,6 +14,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
+  - [Shell](#shell)
   - [Vue](#vue)
 
 ## C# # 
@@ -75,6 +76,10 @@
 ## Rust 
 
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+## Shell 
+
+- [core](https://github.com/dotnet/core) - Home repository for .NET Core
 
 ## Vue 
 
