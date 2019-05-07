@@ -23,7 +23,7 @@
 - [MemAnalyzer](https://github.com/Alois-xx/MemAnalyzer) - A command line memory analysis tool for managed code.
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
-- [clrmd](https://github.com/Microsoft/clrmd) - Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.
+- [clrmd](https://github.com/microsoft/clrmd) - Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
 - [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
