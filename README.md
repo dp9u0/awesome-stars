@@ -7,6 +7,7 @@
 
   - [C#](#c#)
   - [C++](#c++)
+  - [Clojure](#clojure)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -34,6 +35,10 @@
 ## C++ 
 
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
+## Clojure 
+
+- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
 ## HTML 
 
@@ -72,6 +77,7 @@
 
 ## Python 
 
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 ## Rust 
