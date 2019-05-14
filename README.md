@@ -7,7 +7,6 @@
 
   - [C#](#c#)
   - [C++](#c++)
-  - [Clojure](#clojure)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -16,12 +15,10 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
-  - [Vue](#vue)
 
 ## C# # 
 
-- [PowerThreading](https://github.com/Wintellect/PowerThreading) - Jeffrey Richter's Power Threading Library
-- [MemAnalyzer](https://github.com/Alois-xx/MemAnalyzer) - A command line memory analysis tool for managed code.
+- [MemoScope.Net](https://github.com/fremag/MemoScope.Net) - Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd )
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [clrmd](https://github.com/microsoft/clrmd) - Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.
@@ -34,11 +31,8 @@
 
 ## C++ 
 
+- [netext](https://github.com/rodneyviana/netext) - WinDbg extension for data mining managed heap. It also includes commands to list http request, wcf services, WIF tokens among others
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-
-## Clojure 
-
-- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
 ## HTML 
 
@@ -55,7 +49,6 @@
 
 ## JavaScript 
 
-- [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 
 ## Others 
@@ -87,10 +80,6 @@
 ## Shell 
 
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
-
-## Vue 
-
-- [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
 
 ## License
