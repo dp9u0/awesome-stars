@@ -18,6 +18,7 @@
 
 ## C# # 
 
+- [Dora](https://github.com/jiangjinnan/Dora) - 
 - [MemoScope.Net](https://github.com/fremag/MemoScope.Net) - Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd )
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
