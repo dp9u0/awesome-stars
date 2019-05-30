@@ -18,6 +18,11 @@
 
 ## C# # 
 
+- [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+- [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+- [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
+- [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+- [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 - [try](https://github.com/dotnet/try) - Try .NET is an interactive documentation generator for .NET Core.
 - [Dora](https://github.com/jiangjinnan/Dora) - 
 - [MemoScope.Net](https://github.com/fremag/MemoScope.Net) - Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd )
@@ -33,6 +38,7 @@
 
 ## C++ 
 
+- [service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [netext](https://github.com/rodneyviana/netext) - WinDbg extension for data mining managed heap. It also includes commands to list http request, wcf services, WIF tokens among others
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 
