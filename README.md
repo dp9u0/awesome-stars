@@ -9,9 +9,7 @@
   - [C++](#c++)
   - [HTML](#html)
   - [Java](#java)
-  - [JavaScript](#javascript)
   - [Others](#others)
-  - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -19,7 +17,6 @@
 ## C# # 
 
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
-- [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 - [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
@@ -31,7 +28,6 @@
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework
 - [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-- [corefx](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
 - [coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 
@@ -52,11 +48,7 @@
 - [advanced-java](https://github.com/doocs/advanced-java) - 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
 - [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
-
-## JavaScript 
-
-- [vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
+- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计
 
 ## Others 
 
@@ -70,14 +62,8 @@
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 
-## PowerShell 
-
-- [AspNetCore.Docs.zh-cn](https://github.com/aspnet/AspNetCore.Docs.zh-cn) - 
-- [EntityFramework.Docs.zh-cn](https://github.com/aspnet/EntityFramework.Docs.zh-cn) - Documentation for Entity Framework
-
 ## Python 
 
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 ## Rust 
