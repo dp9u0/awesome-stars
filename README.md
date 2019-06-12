@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [HTML](#html)
@@ -13,6 +14,10 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+
+## C 
+
+- [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 
 ## C# # 
 
