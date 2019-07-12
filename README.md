@@ -25,6 +25,7 @@
 
 ## C# # 
 
+- [PowerThreading](https://github.com/Wintellect/PowerThreading) - Jeffrey Richter's Power Threading Library
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
