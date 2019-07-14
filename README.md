@@ -16,7 +16,6 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
-  - [Standard ML](#standard-ml)
 
 ## C 
 
@@ -98,10 +97,6 @@
 ## Shell 
 
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
-
-## Standard ML 
-
-- [Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 
 ## License
