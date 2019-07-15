@@ -24,6 +24,8 @@
 
 ## C# # 
 
+- [surging](https://github.com/dotnetcore/surging) - surging 是一个分布式微服务引擎,提供高性能RPC远程服务调用，服务引擎支持http、TCP、WS、Mqtt、DNS协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希一致性，随机，轮询、压力最小优先作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
+- [orleans](https://github.com/dotnet/orleans) - Orleans - Distributed Virtual Actor Model
 - [PowerThreading](https://github.com/Wintellect/PowerThreading) - Jeffrey Richter's Power Threading Library
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
@@ -49,6 +51,7 @@
 
 ## Go 
 
+- [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed HTAP database compatible with the MySQL protocol
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
 
 ## HTML 
@@ -57,6 +60,7 @@
 
 ## Java 
 
+- [disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 - [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [rocketmq](https://github.com/apache/rocketmq) - Mirror of Apache RocketMQ
@@ -72,6 +76,7 @@
 
 ## Others 
 
+- [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
