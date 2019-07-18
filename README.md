@@ -24,7 +24,8 @@
 
 ## C# # 
 
-- [surging](https://github.com/dotnetcore/surging) - surging 是一个分布式微服务引擎,提供高性能RPC远程服务调用，服务引擎支持http、TCP、WS、Mqtt、DNS协议,采用Zookeeper、Consul作为surging服务的注册中心，集成了哈希一致性，随机，轮询、压力最小优先作为负载均衡的算法，RPC集成采用的是netty框架，采用异步传输
+- [Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
+- [surging](https://github.com/dotnetcore/surging) - surging 是微服务引擎,提供了轻量级，高性能，模块化的RPC请求管道，服务引擎支持http、TCP、WS、Mqtt、UDP、DNS协议，采用了Zookeeper、Consul作为注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，内置了服务治理用来保证可靠性RPC通信
 - [orleans](https://github.com/dotnet/orleans) - Orleans - Distributed Virtual Actor Model
 - [PowerThreading](https://github.com/Wintellect/PowerThreading) - Jeffrey Richter's Power Threading Library
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
