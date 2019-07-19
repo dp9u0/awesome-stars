@@ -77,6 +77,8 @@
 
 ## Others 
 
+- [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
+- [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -92,6 +94,7 @@
 
 ## Python 
 
+- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
