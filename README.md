@@ -57,6 +57,7 @@
 
 ## HTML 
 
+- [distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 
 ## Java 
