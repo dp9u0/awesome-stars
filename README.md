@@ -19,6 +19,7 @@
 
 ## C 
 
+- [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 
