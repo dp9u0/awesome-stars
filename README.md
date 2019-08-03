@@ -26,6 +26,8 @@
 
 ## C# # 
 
+- [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+- [StringFormatter](https://github.com/MikePopoloski/StringFormatter) - Zero-allocation string formatting for .NET.
 - [InlineIL.Fody](https://github.com/ltrzesniewski/InlineIL.Fody) - Inject arbitrary IL code at compile time.
 - [Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
 - [surging](https://github.com/dotnetcore/surging) - surging 是微服务引擎,提供了轻量级，高性能，模块化的RPC请求管道，服务引擎支持http、TCP、WS、Mqtt、UDP、DNS协议，采用了Zookeeper、Consul作为注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，内置了服务治理用来保证可靠性RPC通信
