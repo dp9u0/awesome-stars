@@ -26,6 +26,8 @@
 
 ## C# # 
 
+- [DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
+- [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 - [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 - [StringFormatter](https://github.com/MikePopoloski/StringFormatter) - Zero-allocation string formatting for .NET.
 - [InlineIL.Fody](https://github.com/ltrzesniewski/InlineIL.Fody) - Inject arbitrary IL code at compile time.
