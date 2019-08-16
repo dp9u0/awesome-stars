@@ -32,7 +32,7 @@
 - [StringFormatter](https://github.com/MikePopoloski/StringFormatter) - Zero-allocation string formatting for .NET.
 - [InlineIL.Fody](https://github.com/ltrzesniewski/InlineIL.Fody) - Inject arbitrary IL code at compile time.
 - [Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
-- [surging](https://github.com/dotnetcore/surging) - surging 是微服务引擎,提供了轻量级，高性能，模块化的RPC请求管道，服务引擎支持http、TCP、WS、Mqtt、UDP、DNS协议，采用了Zookeeper、Consul作为注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，内置了服务治理用来保证可靠性RPC通信
+- [surging](https://github.com/dotnetcore/surging) - surging 是微服务引擎,提供了轻量级，高性能，模块化的RPC请求管道，服务引擎支持http、TCP、WS、Mqtt、UDP、DNS协议，采用了Zookeeper、Consul作为注册中心，集成了哈希，随机，轮询，压力最小优先作为负载均衡的算法，内置了服务治理用来保证可靠性RPC通信，引擎内部包含了Diagnostic ，可以针对于协议和中间件的调用进行链路追踪，并且集成SkyWalking分布式APM
 - [orleans](https://github.com/dotnet/orleans) - Orleans - Distributed Virtual Actor Model
 - [PowerThreading](https://github.com/Wintellect/PowerThreading) - Jeffrey Richter's Power Threading Library
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
