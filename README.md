@@ -54,6 +54,8 @@
 
 ## C++ 
 
+- [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
 - [service-fabric](https://github.com/microsoft/service-fabric) - Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [netext](https://github.com/rodneyviana/netext) - WinDbg extension for data mining managed heap. It also includes commands to list http request, wcf services, WIF tokens among others
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
