@@ -94,6 +94,7 @@
 
 ## Others 
 
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [distsys-class](https://github.com/aphyr/distsys-class) - Class materials for a distributed systems lecture series
