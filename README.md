@@ -94,6 +94,7 @@
 
 ## Others 
 
+- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
