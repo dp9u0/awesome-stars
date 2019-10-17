@@ -40,7 +40,7 @@
 - [InlineIL.Fody](https://github.com/ltrzesniewski/InlineIL.Fody) - Inject arbitrary IL code at compile time.
 - [Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
 - [surging](https://github.com/dotnetcore/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS, Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM
-- [orleans](https://github.com/dotnet/orleans) - Orleans - Distributed Virtual Actor Model
+- [orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [PowerThreading](https://github.com/Wintellect/PowerThreading) - Jeffrey Richter's Power Threading Library
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
