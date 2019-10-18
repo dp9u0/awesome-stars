@@ -29,10 +29,7 @@
 
 ## C# # 
 
-- [NoDb](https://github.com/cloudscribe/NoDb) - a "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database
 - [LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
-- [ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
-- [RaptorDB-Document](https://github.com/mgholam/RaptorDB-Document) - NoSql, JSON based, Document store database with compiled .net map functions and automatic hybrid bitmap indexing and LINQ query filters (now with standalone Server mode, Backup and Active Restore, Transactions, Server side queries, MonoDroid support, HQ-Branch Replication, .net core v2.0, .net standard v2.0)
 - [DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 - [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
