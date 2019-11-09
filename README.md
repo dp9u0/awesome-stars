@@ -92,7 +92,7 @@
 ## Jupyter Notebook 
 
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
-- [try](https://github.com/dotnet/try) - Try .NET is an interactive documentation generator for .NET Core.
+- [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Others 
 
