@@ -44,6 +44,7 @@
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 - [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
+- [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [MemoScope.Net](https://github.com/fremag/MemoScope.Net) - Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd )
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
@@ -92,12 +93,10 @@
 ## Jupyter Notebook 
 
 - [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
-- [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 
 ## Others 
 
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
 - [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
@@ -116,6 +115,7 @@
 
 ## Python 
 
+- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 
