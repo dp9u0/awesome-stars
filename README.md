@@ -96,6 +96,7 @@
 
 ## Others 
 
+- [Notebook-DesignPattern](https://github.com/dp9u0/Notebook-DesignPattern) - 设计模式
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
