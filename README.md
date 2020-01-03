@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
