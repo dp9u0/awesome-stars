@@ -20,6 +20,7 @@
 
 ## C 
 
+- [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [libevent](https://github.com/libevent/libevent) - Event notification library
 - [contextswitch](https://github.com/tsuna/contextswitch) - Little micro-benchmark for Linux to test the cost of context switching and system calls
@@ -72,6 +73,7 @@
 
 ## HTML 
 
+- [redis](https://github.com/huangz1990/redis) - 《Redis Command Reference》全文的中文翻译版。
 - [refactoring-cheat-sheet](https://github.com/wangvsa/refactoring-cheat-sheet) - 重构速查表，基于《重构--改善既有代码的设计》
 - [distsysbook](https://github.com/mixu/distsysbook) - The book Distributed systems: for fun and profit
 - [growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
