@@ -20,6 +20,7 @@
 
 ## C 
 
+- [uvbook](https://github.com/nikhilm/uvbook) - An Introduction to libuv
 - [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [libevent](https://github.com/libevent/libevent) - Event notification library
@@ -30,6 +31,7 @@
 
 ## C# # 
 
+- [LibuvSharp](https://github.com/txdv/LibuvSharp) - .NET bindings for libuv
 - [LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
 - [DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
@@ -58,6 +60,7 @@
 
 ## C++ 
 
+- [thrift](https://github.com/apache/thrift) - Apache Thrift
 - [mongo](https://github.com/mongodb/mongo) - The MongoDB Database
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -81,6 +84,7 @@
 
 ## Java 
 
+- [avro](https://github.com/apache/avro) - Apache Avro
 - [disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - tcc-transaction是TCC型事务java实现
 - [skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
@@ -101,6 +105,8 @@
 
 ## Others 
 
+- [deep-into-node](https://github.com/yjhjstz/deep-into-node) - 深入理解Node.js：核心思想与源码分析
+- [Chinese-uvbook](https://github.com/luohaha/Chinese-uvbook) - 翻译的libuv的中文教程
 - [porourl](https://github.com/poroby/porourl) - 
 - [Notebook-DesignPattern](https://github.com/dp9u0/Notebook-DesignPattern) - 设计模式
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
